@@ -174,3 +174,11 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+
+#map {
+  width: 100%;
+  height: 500px;
+  position: initial !important;
+  overflow: hidden !important;
+}
