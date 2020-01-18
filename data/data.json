@@ -1,0 +1,66 @@
+[
+    {
+        "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+        "CIUDAD": "Bogotá D.C.",
+        "Naturaleza": "",
+        "CONVOCATORIAS": "Semestrales/Anuales",
+        "ESPECIALIDADES": 
+        [
+            {
+                "nombre": "Anestesiología y Reanimación",
+                "enlace": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/anestesiologia-reanimacion"
+            },
+            {
+                "nombre": "Cirugía General",
+                "enlace": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cirugia-general"
+            },
+            {
+                "nombre": "Cirugía Pediatríca ",
+                "enlace": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cirugia-pediatrica"
+            }
+        ]
+    },
+    {
+        "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+        "Naturaleza": "",
+        "CIUDAD": "Bogotá D.C.",
+        "CONVOCATORIAS": "Semestrales/Anuales",
+        "ESPECIALIDADES": 
+        [
+            {
+                "nombre": "Anestesiología",
+                "enlace": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/anestesiologia"
+            },
+            {
+                "nombre": "Cardiología",
+                "enlace": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cardiologia"
+            },
+            {
+                "nombre": "Cirugía Cardiovascular",
+                "enlace": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-cardiovascular"
+            }
+        ]
+    },
+    {
+        "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+        "Naturaleza": "",
+        "CIUDAD": "Bogotá D.C.",
+        "CONVOCATORIAS": "Semestrales/Anuales",
+        "ESPECIALIDADES": 
+        [
+            {
+                "nombre": "Anestesia y Medicina Perioperatoria",
+                "enlace": "http://www.unisanitas.edu.co/programas-academicos/posgrado/anestesia-y-medicina-perioperatoria"
+            },
+            {
+                "nombre": "Cardiología",
+                "enlace": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cardiologia"
+            },
+            {
+                "nombre": "Cirugía Cardiovascular",
+                "enlace": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-cardiovascular"
+            }
+        ]
+    }
+
+]
