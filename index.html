@@ -26,14 +26,15 @@
 
 <body id="page-top">
 
-  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="sideNav">
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       <span class="d-block d-lg-none">Universidades</span>
       <span class="d-none d-lg-block">
         <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
       </span>
     </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -63,9 +64,9 @@
   <div class="container-fluid p-0">
 
     <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-      
-        <div id="map"></div>
-        <!-- <h1 class="mb-0">Clarence
+
+      <div id="map"></div>
+      <!-- <h1 class="mb-0">Clarence
           <span class="text-primary">Taylor</span>
         </h1>
         <div class="subheading mb-5">3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
@@ -86,28 +87,35 @@
             <i class="fab fa-facebook-f"></i>
           </a>
         </div> -->
-      
+
     </section>
 
-    <hr class="m-0">
+    <hr class="m-0 ">
 
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
-      <h3 id="nombre_universidad" class="mb-5"></h3>
-        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-          <div class="resume-content">
-            <h3 id="ciudad" class="mb-0"></h3>
-            <div id="naturaleza" class="subheading mb-3"></div>
-            <div id="convocatorias"></div>
-            <p></p>
-          </div>
-          <div class="resume-date text-md-right">
-            <span class="text-primary"></span>
+    <section class="resume-section p-2 p-lg-4 " id="awards">
+      <div class="col-md-6 mt-5">
+        <div class="row d-block">
+          <h3 id="nombre_universidad" class="mb-5"></h3>
+          <div class="resume-item d-flex flex-column flex-md-row justify-content-center mb-5">
+            <div class="resume-content">
+              <h3 id="ciudad" class="mb-0"></h3>
+              <div id="naturaleza" class="subheading mb-3"></div>
+              <div id="convocatorias"></div>
+              <p></p>
+            </div>
+
+            <div class="resume-date text-md-right">
+              <span class="text-primary"></span>
+            </div>
           </div>
         </div>
-      <div class="w-100">
-        <h2 class="mb-5">Especializaciones:</h2>
-        <ul  class="fa-ul mb-0" id="especialidades">
-           
+      </div>
+
+      <div class="col-md-6 mt-7 ">
+        <div class="row ">
+          <h2 class="mb-5 ">Especializaciones:</h2>
+          <ul class="fa-ul mb-0" id="especialidades"></ul>
+        </div>
       </div>
     </section>
 
@@ -125,16 +133,16 @@
   <script src="js/resume.min.js"></script>
   <script src="js/map.js"></script>
 
-</script>
 
-<!--Load the API from the specified URL
+
+  <!--Load the API from the specified URL
 * The async attribute allows the browser to render the page while the API loads
 * The key parameter will contain your own API key (which is not needed for this tutorial)
 * The callback parameter executes the initMap() function
 -->
-<script async defer
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLT3W_nkk1YHqQ3Sf_tdHM1KLRrCeYFls&callback=getData">
-</script>
+  <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDLT3W_nkk1YHqQ3Sf_tdHM1KLRrCeYFls&callback=getData">
+  </script>
 
 
 </body>
