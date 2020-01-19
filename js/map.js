@@ -26,46 +26,33 @@ function initMap(universidades)
   var contentString = [];
 
 //inicia foreach
-universidades.forEach(function (universidad, i) 
-{
-  console.log('%d: %s', i, universidad);
-  var markers = [];
-  var infowindow = [];
-  var contentString = [];
-  //arr[index] = item * 10;
-  var coors = {lat: -27.344 + i, lng: 131.036};
-  markers[i] = new google.maps.Marker({position: coors, map: mapa});
-  //markers[1] = new google.maps.Marker({position: uluru1, map: mapa});
-  contentString[i] = '<div id="content">'+
-          '<div id="siteNotice">'+
-          '</div>'+
-          '<h3 id="firstHeading" class="firstHeading">'+universidad.UNIVERSIDAD+'</h3>'+
-          '<div id="bodyContent">'+
-          '<p><b>Uluru</b>, also referred to as <b>Ayers Rock</b>, is a large ' +
-          'sandstone rock formation in the southern part of the '+
-          'Northern Territory, central Australia. It lies 335&#160;km (208&#160;mi) '+
-          'south west of the nearest large town, Alice Springs; 450&#160;km '+
-          '(280&#160;mi) by road. Kata Tjuta and Uluru are the two major '+
-          'features of the Uluru - Kata Tjuta National Park. Uluru is '+
-          'sacred to the Pitjantjatjara and Yankunytjatjara, the '+
-          'Aboriginal people of the area. It has many springs, waterholes, '+
-          'rock caves and ancient paintings. Uluru is listed as a World '+
-          'Heritage Site.</p>'+
-          '<p>Attribution: Uluru, <a href="https://en.wikipedia.org/w/index.php?title=Uluru&oldid=297882194">'+
-          'https://en.wikipedia.org/w/index.php?title=Uluru</a> '+
-          '(last visited June 22, 2009).</p>'+
-          '<a class="nav-link js-scroll-trigger" href="#experience">Experience</a>'+
-          '<button onclick="verUniversidad('+ i +')">Ver Universidad</button>'+
-          '</div>'+
-          '</div>';
-    infowindow[i] = new google.maps.InfoWindow({
-        content: contentString[i]
-      });
+  universidades.forEach(function (universidad, i) 
+  {
+    console.log('%d: %s', i, universidad);
+    var markers = [];
+    var infowindow = [];
+    var contentString = [];
+    //arr[index] = item * 10;
+    var coors = {lat: -27.344 + i, lng: 131.036};
+    markers[i] = new google.maps.Marker({position: coors, map: mapa});
+    //markers[1] = new google.maps.Marker({position: uluru1, map: mapa});
+    contentString[i] = '<div id="content">'+
+            '<div id="siteNotice">'+
+            '</div>'+
+            '<h4 id="firstHeading" class="firstHeading">'+ universidad.nombre +'</h4>'+
+            '<div id="bodyContent">'+
+            '<p><b>Ciudad: </b>'+ universidad.ciudad +
+            '</br><button onclick="verUniversidad('+ i +')">Ver Universidad</button>'+
+            '</div>'+
+            '</div>';
+      infowindow[i] = new google.maps.InfoWindow({
+          content: contentString[i]
+        });
 
-    markers[i].addListener('click', function() {
-        infowindow[i].open(map, markers[i]);
-      });
-});
+      markers[i].addListener('click', function() {
+          infowindow[i].open(map, markers[i]);
+        });
+  });
 }
 
 function verUniversidad(id_universidad)
@@ -77,12 +64,41 @@ function verUniversidad(id_universidad)
   .then(data => 
   {
     datajson= data;
-    console.log(obtenerUniversidad(datajson, id_universidad));
-    //crear función para pintar html
+    universidadSeleccionada = obtenerUniversidad(datajson, id_universidad);
+
+    var nombre = document.getElementById("nombre_universidad");
+    var nombre2 = document.getElementById("nombre_universidad2");
+    var ciudad = document.getElementById("ciudad");
+    var naturaleza = document.getElementById("naturaleza");
+    var convocatorias = document.getElementById("convocatorias");
+
+    var texto_nombre = document.createTextNode(universidadSeleccionada.nombre);  
+    var texto_nombre2 = document.createTextNode(universidadSeleccionada.nombre);  
+    var texto_ciudad = document.createTextNode(universidadSeleccionada.ciudad);  
+    var texto_naturaleza = document.createTextNode(universidadSeleccionada.naturaleza);  
+    var texto_convocatorias = document.createTextNode(universidadSeleccionada.convocatorias);  
+    
+    nombre.appendChild(texto_nombre);
+    nombre2.appendChild(texto_nombre2);
+    ciudad.appendChild(texto_ciudad);
+    naturaleza.appendChild(texto_naturaleza);
+    convocatorias.appendChild(texto_convocatorias);
+    //crear función para pintar
+
+
+    var especializades = document.getElementById("especialidades");
+    //ciclo
+    lista = "";
+    universidadSeleccionada.especialidades.forEach(function (universidad, i) 
+    {    
+      //var texto_url = document.createTextNode(universidadSeleccionada.nombre);  
+      lista = lista + "<li><i class='fa-li fa fa-trophy text-warning'></i>"+ universidad.nombre + "</li>"; 
+    });
+
+    $( "#especialidades").append(lista);
+
   });
   window.scrollTo(0, 600);
-  //reemplazar información de las universidad
-  //window.location.hash = "experience";
 }
 
 function obtenerUniversidad(universidades, id_universidad)

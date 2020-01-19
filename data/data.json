@@ -1,10 +1,10 @@
 [
     {
-        "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
-        "CIUDAD": "Bogotá D.C.",
-        "Naturaleza": "",
-        "CONVOCATORIAS": "Semestrales/Anuales",
-        "ESPECIALIDADES": 
+        "nombre": "Universidad Nacional de Colombia-UN - PUBLICA",
+        "ciudad": "Bogotá D.C.",
+        "naturaleza": "",
+        "convocatorias": "Semestrales/Anuales",
+        "especialidades": 
         [
             {
                 "nombre": "Anestesiología y Reanimación",
@@ -21,11 +21,11 @@
         ]
     },
     {
-        "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
-        "Naturaleza": "",
-        "CIUDAD": "Bogotá D.C.",
-        "CONVOCATORIAS": "Semestrales/Anuales",
-        "ESPECIALIDADES": 
+        "nombre": "Universidad Militar Nueva Granada-UMNG",
+        "naturaleza": "",
+        "ciudad": "Bogotá D.C.",
+        "convocatorias": "Semestrales/Anuales",
+        "especialidades": 
         [
             {
                 "nombre": "Anestesiología",
@@ -42,11 +42,11 @@
         ]
     },
     {
-        "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+        "nombre": "Fundacion Universitaria Sanitas-UNISANITAS",
         "Naturaleza": "",
-        "CIUDAD": "Bogotá D.C.",
-        "CONVOCATORIAS": "Semestrales/Anuales",
-        "ESPECIALIDADES": 
+        "ciudad": "Bogotá D.C.",
+        "convocatorias": "Semestrales/Anuales",
+        "especialidades": 
         [
             {
                 "nombre": "Anestesia y Medicina Perioperatoria",
