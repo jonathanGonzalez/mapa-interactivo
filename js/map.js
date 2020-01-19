@@ -37,7 +37,7 @@ function initMap(universidades) {
     //markers[1] = new google.maps.Marker({position: uluru1, map: mapa});
     contentString[
       i
-    ] = `<div  id="content"><div id="siteNotice"></div><h4 id="firstHeading" class="firstHeading">${universidad.nombre}</h4><div id="bodyContent"><p><b class=h6 >Ciudad: </b>${universidad.ciudad}</br><button class="btn btn-dark btn-sm mt-3" onclick="verUniversidad(${i})">Ver Universidad</button></div></div>`;
+    ] = `<div class="text-lg-center pt-3" id="content"><div id="siteNotice"></div><h4 id="firstHeading" class="firstHeading">${universidad.nombre}</h4><div id="bodyContent"><p><b class= h6 mt-1 >Ciudad: </b>${universidad.ciudad}</br><button class="btn btn-dark btn-sm mt-2" onclick="verUniversidad(${i})">Ver Universidad</button></div></div>`;
     infowindow[i] = new google.maps.InfoWindow({
       content: contentString[i]
     });
