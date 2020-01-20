@@ -93,7 +93,7 @@ function verUniversidad(id_universidad) {
         //var texto_url = document.createTextNode(universidadSeleccionada.nombre);
         lista =
           lista +
-          "<li><i class='fa-li fa fa-graduation-cap text-secundary'></i>" +
+          "<li><i class='fa-li fa fa-graduation-cap '></i>" +
           universidad.nombre +
           "</li>";
       });
