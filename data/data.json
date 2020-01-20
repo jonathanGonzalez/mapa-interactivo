@@ -71,7 +71,7 @@
     {
         "nombre": "Universidad CES",
         "Naturaleza": "Privada",
-        "logo": "img/fus.jpeg",
+        "logo": "img/ces.png",
         "ciudad": "Medellín",
         "convocatorias": "Anuales",
         "coordenadas": { "lat": 6.208484, "lng": -75.553102 },
