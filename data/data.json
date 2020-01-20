@@ -4,6 +4,7 @@
         "ciudad": "Bogotá D.C.",
         "naturaleza": "",
         "convocatorias": "Semestrales/Anuales",
+        "coordenadas": { "lat": -25.344, "lng": 131.036 },
         "especialidades": 
         [
             {
@@ -25,6 +26,7 @@
         "naturaleza": "",
         "ciudad": "Bogotá D.C.",
         "convocatorias": "Semestrales/Anuales",
+        "coordenadas": { "lat": -28.344, "lng": 131.036 },
         "especialidades": 
         [
             {
@@ -46,6 +48,7 @@
         "Naturaleza": "",
         "ciudad": "Bogotá D.C.",
         "convocatorias": "Semestrales/Anuales",
+        "coordenadas": { "lat": -23.344, "lng": 135.036 },
         "especialidades": 
         [
             {

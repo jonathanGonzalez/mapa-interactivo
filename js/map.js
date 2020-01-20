@@ -9,15 +9,12 @@ function getData() {
     });
 }
 
-function initMap(universidades) {
-  // The location of Uluru
-  var uluru = { lat: -25.344, lng: 131.036 };
-  var uluru0 = { lat: -27.344, lng: 131.036 };
-  var uluru1 = { lat: -30.344, lng: 131.036 };
-  // The map, centered at Uluru
+function initMap(universidades) 
+{
+  var centroMapa = { lat: -25.344, lng: 131.036 };
   var mapa = new google.maps.Map(document.getElementById("map"), {
     zoom: 4,
-    center: uluru
+    center: centroMapa
   });
 
   // The marker, positioned at Uluru
@@ -28,13 +25,8 @@ function initMap(universidades) {
   //inicia foreach
   universidades.forEach(function(universidad, i) {
     console.log("%d: %s", i, universidad);
-    var markers = [];
-    var infowindow = [];
-    var contentString = [];
-    //arr[index] = item * 10;
-    var coors = { lat: -27.344 + i, lng: 131.036 };
+    coors = universidad.coordenadas;
     markers[i] = new google.maps.Marker({ position: coors, map: mapa });
-    //markers[1] = new google.maps.Marker({position: uluru1, map: mapa});
     contentString[
       i
     ] = `<div class="text-lg-center pt-3" id="content"><div id="siteNotice"></div><h4 id="firstHeading" class="firstHeading">${universidad.nombre}</h4><div id="bodyContent"><p><b class= h6 mt-1 >Ciudad: </b>${universidad.ciudad}</br><button class="btn btn-dark btn-sm mt-2" onclick="verUniversidad(${i})">Ver Universidad</button></div></div>`;
@@ -48,8 +40,11 @@ function initMap(universidades) {
   });
 }
 
+
 function verUniversidad(id_universidad) {
-  console.log(id_universidad);
+  console.log(id_universidad, this.hash);
+  var elmnt = document.getElementById("awards");
+  elmnt.scrollIntoView();
   datajson = [];
   fetch("/data/data.json")
     .then(response => response.json())
@@ -62,31 +57,39 @@ function verUniversidad(id_universidad) {
       var ciudad = document.getElementById("ciudad");
       var naturaleza = document.getElementById("naturaleza");
       var convocatorias = document.getElementById("convocatorias");
+      var especializaciones = document.getElementById("especialidades");
 
-      var texto_nombre = document.createTextNode(
-        universidadSeleccionada.nombre
-      );
-      var texto_nombre2 = document.createTextNode(
-        universidadSeleccionada.nombre
-      );
-      var texto_ciudad = document.createTextNode(
-        universidadSeleccionada.ciudad
-      );
-      var texto_naturaleza = document.createTextNode(
-        universidadSeleccionada.naturaleza
-      );
-      var texto_convocatorias = document.createTextNode(
-        universidadSeleccionada.convocatorias
-      );
+      // var texto_nombre = document.createTextNode(
+      //   universidadSeleccionada.nombre
+      // );
+      // var texto_nombre2 = document.createTextNode(
+      //   universidadSeleccionada.nombre
+      // );
+      // var texto_ciudad = document.createTextNode(
+      //   universidadSeleccionada.ciudad
+      // );
+      // var texto_naturaleza = document.createTextNode(
+      //   universidadSeleccionada.naturaleza
+      // );
+      // var texto_convocatorias = document.createTextNode(
+      //   universidadSeleccionada.convocatorias
+      // );
 
-      nombre.appendChild(texto_nombre);
-      nombre2.appendChild(texto_nombre2);
-      ciudad.appendChild(texto_ciudad);
-      naturaleza.appendChild(texto_naturaleza);
-      convocatorias.appendChild(texto_convocatorias);
+      nombre.innerHTML = universidadSeleccionada.nombre;
+      nombre2.innerHTML = universidadSeleccionada.nombre;
+      ciudad.innerHTML = universidadSeleccionada.ciudad;
+      naturaleza.innerHTML = universidadSeleccionada.naturaleza;
+      convocatorias.innerHTML = universidadSeleccionada.convocatorias;
+      especializaciones.innerHTML = "";
+
+      //nombre.appendChild(texto_nombre);
+      // nombre2.appendChild(texto_nombre2);
+      // ciudad.appendChild(texto_ciudad);
+      // naturaleza.appendChild(texto_naturaleza);
+      // convocatorias.appendChild(texto_convocatorias);
       //crear función para pintar
 
-      var especializades = document.getElementById("especialidades");
+      
       //ciclo
       lista = "";
       universidadSeleccionada.especialidades.forEach(function(universidad, i) {
@@ -97,10 +100,10 @@ function verUniversidad(id_universidad) {
           universidad.nombre +
           "</li>";
       });
-
       $("#especialidades").append(lista);
     });
-  window.scrollTo(0, 600);
+  //window.scrollTo(0, 600);
+  
 }
 
 function obtenerUniversidad(universidades, id_universidad) {
