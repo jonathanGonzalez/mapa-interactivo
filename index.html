@@ -30,7 +30,7 @@
     <a class="navbar-brand js-scroll-trigger" href="#page-top">
       <span class="d-block d-lg-none">Especializaciones Médicas.</span>
       <span class="d-none d-lg-block">
-        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt="">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2 bg-white" src="img/profile.png" id="logoapp" alt="">
       </span>
     </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -98,9 +98,21 @@
           <h3 id="nombre_universidad" class="mb-5">Aún no has seleccionado ninguna universidad en el mapa</h3>
           <!-- <div class="resume-item d-flex flex-column flex-md-row justify-content-center mb-5"> -->
           <div class="resume-content ">
-            <h3 id="ciudad" class="mb-0"></h3>
-            <div id="naturaleza" class="subheading mb-3"></div>
-            <div id="convocatorias"></div>
+            
+            <div class="subheading mb-3">
+              <label id="label_ciudad"><h3 class="mb-0">Ciudad:</h3></label>
+              <label id="ciudad"></label>
+              <span width="2%"> / </span>
+
+            
+              <label id="label_naturaleza"><h4 class="mb-0">Naturaleza:</h4></label>
+              <label id="naturaleza"></label>
+              
+              <span width="2%"> / </span>
+
+              <label id="label_convocatorias"><h4 class="mb-0">Convocatorias:</h4></label>
+              <label id="convocatorias"> / </label>
+            </div>
             <p></p>
           </div>
 
@@ -113,9 +125,9 @@
 
       <div class="container mt-1">
         <div class="col-12 col-offset-4 justify-content-center text-lg-center ">
-          <h2 class="mb-2 h1 text-lg-center ">Especializaciones:</h2>
-          <div class="row">
-            <ul class="fa-ul mb-0" id="especialidades"></ul>
+          <h2 class="mb-2 h1 text-lg-center ">Especialidades</h2>
+          <div class="row justify-content-center" id="especialidades">
+            
           </div>
 
         </div>

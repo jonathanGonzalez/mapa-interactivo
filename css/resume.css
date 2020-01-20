@@ -160,7 +160,10 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color:rgb(153, 0, 0)!important;
+}
+.bg-white {
+  background-color:#fff!important;
 }
 
 .text-primary {
@@ -181,4 +184,10 @@ a:hover, a:focus, a:active {
   height: 500px;
   position: initial !important;
   overflow: hidden !important;
+}
+
+.especializacion-item
+{
+  position: relative;
+  float: right;
 }

@@ -3,8 +3,9 @@
         "nombre": "Universidad Nacional de Colombia-UN - PUBLICA",
         "ciudad": "Bogotá D.C.",
         "naturaleza": "",
+        "logo":"img/un.png",
         "convocatorias": "Semestrales/Anuales",
-        "coordenadas": { "lat": -25.344, "lng": 131.036 },
+        "coordenadas": { "lat":4.638136, "lng":  -74.084034 },
         "especialidades": 
         [
             {
@@ -24,9 +25,10 @@
     {
         "nombre": "Universidad Militar Nueva Granada-UMNG",
         "naturaleza": "",
+        "logo": "img/umng.png",
         "ciudad": "Bogotá D.C.",
         "convocatorias": "Semestrales/Anuales",
-        "coordenadas": { "lat": -28.344, "lng": 131.036 },
+        "coordenadas": { "lat": 4.683886, "lng": -74.042330 },
         "especialidades": 
         [
             {
@@ -46,9 +48,10 @@
     {
         "nombre": "Fundacion Universitaria Sanitas-UNISANITAS",
         "Naturaleza": "",
+        "logo": "img/fus.jpeg",
         "ciudad": "Bogotá D.C.",
         "convocatorias": "Semestrales/Anuales",
-        "coordenadas": { "lat": -23.344, "lng": 135.036 },
+        "coordenadas": { "lat": 4.752576, "lng": -74.023371 },
         "especialidades": 
         [
             {
@@ -62,6 +65,41 @@
             {
                 "nombre": "Cirugía Cardiovascular",
                 "enlace": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-cardiovascular"
+            }
+        ]
+    },
+    {
+        "nombre": "Universidad CES",
+        "Naturaleza": "Privada",
+        "logo": "img/fus.jpeg",
+        "ciudad": "Medellín",
+        "convocatorias": "Anuales",
+        "coordenadas": { "lat": 6.208484, "lng": -75.553102 },
+        "especialidades": 
+        [
+            {
+                "nombre": "Anestesia Cardiovascular y Torácica",
+                "enlace": "https://www.ces.edu.co/programas/especializaciones-clinicas/anestesia-cardiovascular-y-toracica/"
+            },
+            {
+                "nombre": "Anestesiología",
+                "enlace": "https://www.ces.edu.co/programas/especializaciones-clinicas/anestesiologia/"
+            },
+            {
+                "nombre": "Cardiología",
+                "enlace": "https://www.ces.edu.co/programas/especializaciones-clinicas/cardiologia/"
+            },
+            {
+                "nombre": "Anestesia Cardiovascular y Torácica",
+                "enlace": "https://www.ces.edu.co/programas/especializaciones-clinicas/anestesia-cardiovascular-y-toracica/"
+            },
+            {
+                "nombre": "Anestesiología",
+                "enlace": "https://www.ces.edu.co/programas/especializaciones-clinicas/anestesiologia/"
+            },
+            {
+                "nombre": "Cardiología",
+                "enlace": "https://www.ces.edu.co/programas/especializaciones-clinicas/cardiologia/"
             }
         ]
     }
