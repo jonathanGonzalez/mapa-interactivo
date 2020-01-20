@@ -8,7 +8,7 @@ Swal.fire({
 //cargar datos desde un archivo json
 function getData() {
   datajson = [];
-  fetch("/data/data.json")
+  fetch("data/data.json")
     .then(response => response.json())
     .then(data => {
       datajson = data;
