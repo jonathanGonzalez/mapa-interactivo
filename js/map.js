@@ -1,3 +1,10 @@
+Swal.fire({
+  icon: 'success',
+  title: 'Mapa de Especialidades Médicas',
+  confirmButtonText: 'continuar',
+  confirmButtonColor: '#990000',
+  text: 'a continuación puede ver un mapa con las diferentes universidades con especialidades médicas en Colombia, seleccione una y consulte su información y sus especialidades',
+})
 //cargar datos desde un archivo json
 function getData() {
   datajson = [];
