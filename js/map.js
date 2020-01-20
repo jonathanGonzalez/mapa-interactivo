@@ -53,7 +53,7 @@ function verUniversidad(id_universidad) {
   var elmnt = document.getElementById("awards");
   elmnt.scrollIntoView();
   datajson = [];
-  fetch("/data/data.json")
+  fetch("data/data.json")
     .then(response => response.json())
     .then(data => {
       datajson = data;
