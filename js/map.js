@@ -34,9 +34,47 @@ function initMap(universidades)
     console.log("%d: %s", i, universidad);
     coors = universidad.coordenadas;
     markers[i] = new google.maps.Marker({ position: coors, map: mapa });
-    contentString[
-      i
-    ] = `<div class="text-lg-center pt-3" id="content"><div id="siteNotice"><img width="100px" src="${universidad.logo}"></div><h4 id="firstHeading" class="firstHeading">${universidad.nombre}</h4><div id="bodyContent"><p><b class= h6 mt-1 >Ciudad: </b>${universidad.ciudad}</br><button class="btn btn-danger btn-sm mt-2" onclick="verUniversidad(${i})">Ver Universidad</button></div></div>`;
+    contentString[i] = `
+    <div className="contaier">
+        <div class="container d-flex pt-3" id="content">
+        
+        <div class="p-2"   id="siteNotice">
+            <img width="100px" src="${universidad.logo}">
+        </div>
+        <div class="p-2">
+            <h4 id="firstHeading" class="firstHeading">
+            ${universidad.nombre}
+            </h4>
+                <div id="bodyContent">
+                    <p class="card-text">
+                        <b class= h6 mt-1 >Ciudad: </b>
+                        ${universidad.ciudad}</br>
+                    </p>   
+                    <p class="card-text">
+                        <b class= h6 mt-1 >PBX: </b>
+                        ${universidad.telefono}</br>
+                    </p>   
+                    <p class="card-text">
+                        <b class= h6 mt-1 >Direccion: </b>
+                        ${universidad.direccion}</br>
+                    </p>   
+                    <p class="card-text">
+                        <b class= h6 mt-1 >
+                        Email:
+                         </b>
+                        ${universidad.email}</br>
+                    </p>   
+                    <div className="container">
+                        <button class="btn btn-danger btn-sm mt-2"      onclick="verUniversidad(${i})">Ver Universidad
+                        </button>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+        
+    </div>
+    `;
     infowindow[i] = new google.maps.InfoWindow({
       content: contentString[i]
     });
@@ -78,7 +116,14 @@ function verUniversidad(id_universidad) {
       //ciclo
       lista = "";
       universidadSeleccionada.especialidades.forEach(function(especialidad, i) {
-        lista = lista + "<div class='col-12 pl-0'><a target='_blank' href="+ especialidad.enlace +"><i class='fa-li fa fa-graduation-cap text-secundary'></i>"+especialidad.nombre +"</a></div>";
+        lista = `
+        ${lista}
+        <div class='col-12 pl-0'>
+            <a target='_blank' href=${especialidad.enlace}>
+                <i class='fa-li fa fa-graduation-cap text-secundary'>
+                </i>${especialidad.nombre}
+            </a>
+        </div>`;
       });
       especializaciones.innerHTML = lista;
       //$("#especialidades").append(lista);
