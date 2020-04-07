@@ -106,9 +106,18 @@ function verUniversidad(id_universidad) {
       var especializaciones = document.getElementById("especialidades");
 
       logoapp.src = universidadSeleccionada.logo;
+
       nombre.innerHTML = universidadSeleccionada.nombre;
       nombre2.innerHTML = universidadSeleccionada.nombre;
       ciudad.innerHTML = universidadSeleccionada.ciudad;
+      ciudad2.innerHTML = universidadSeleccionada.ciudad;
+      
+      telefono2.innerHTML = universidadSeleccionada.telefono;
+      direccion2.innerHTML = universidadSeleccionada.direccion;
+      tefefono2.innerHTML = universidadSeleccionada.tefefono;
+      email2.innerHTML = universidadSeleccionada.email;
+
+
       naturaleza.innerHTML = universidadSeleccionada.naturaleza;
       convocatorias.innerHTML = universidadSeleccionada.convocatorias;
       //especializaciones.innerHTML = "";
