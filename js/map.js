@@ -37,14 +37,13 @@ function initMap(universidades)
     contentString[i] = `
     <div className="contaier">
         <div class="container d-flex pt-3" id="content">
-        
-        <div class="p-2"   id="siteNotice">
-            <img width="100px" src="${universidad.logo}">
-        </div>
-        <div class="p-2">
-            <h4 id="firstHeading" class="firstHeading">
-            ${universidad.nombre}
-            </h4>
+            <div class="p-2"   id="siteNotice">
+                <img width="100px" src="${universidad.logo}">
+            </div>
+            <div class="p-2">
+                <h4 id="firstHeading" class="firstHeading">
+                ${universidad.nombre}
+                </h4>
                 <div id="bodyContent">
                     <p class="card-text">
                         <b class= h6 mt-1 >Ciudad: </b>
@@ -61,7 +60,7 @@ function initMap(universidades)
                     <p class="card-text">
                         <b class= h6 mt-1 >
                         Email:
-                         </b>
+                        </b>
                         ${universidad.email}</br>
                     </p>   
                     <div className="container">
@@ -69,10 +68,8 @@ function initMap(universidades)
                         </button>
                     </div>
                 </div>
-            
             </div>
         </div>
-        
     </div>
     `;
     infowindow[i] = new google.maps.InfoWindow({
