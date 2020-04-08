@@ -69,6 +69,7 @@ function verUniversidad(id_universidad) {
 
 
       logoapp.src = universidadSeleccionada.logo;
+      logoapp2.src = universidadSeleccionada.logo;
       nombre.innerHTML = universidadSeleccionada.nombre;
       nombre2.innerHTML = universidadSeleccionada.nombre;
       ciudad.innerHTML = universidadSeleccionada.ciudad;
