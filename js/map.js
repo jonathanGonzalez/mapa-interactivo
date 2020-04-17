@@ -35,7 +35,7 @@ function initMap(universidades) {
    universidades.forEach(function(universidad, i) {
     console.log("%d: %s", i, universidad);
     coors = universidad.coordenadas;
-    markers[i] = new google.maps.Marker({ position: coors, map: mapa });
+    markers[i] = new google.maps.Marker({ position: coors, map: mapa, title: universidad.nombre });
     contentString[i] = `
     <div className="contaier">
         <div class="container d-flex pt-3" id="content">
