@@ -16,9 +16,11 @@ function getData() {
     });
 }
 
-function initMap(universidades) 
-{
-  var centroMapa = { lat: 4.635280, lng: -74.120177 };
+function initMap(universidades) {
+  var centroMapa = {
+    lat: 4.635280,
+    lng: -74.120177
+  };
   var mapa = new google.maps.Map(document.getElementById("map"), {
     zoom: 6,
     center: centroMapa
@@ -29,14 +31,52 @@ function initMap(universidades)
   var infowindow = [];
   var contentString = [];
 
-  //inicia foreach
-  universidades.forEach(function(universidad, i) {
+   //inicia foreach
+   universidades.forEach(function(universidad, i) {
     console.log("%d: %s", i, universidad);
     coors = universidad.coordenadas;
     markers[i] = new google.maps.Marker({ position: coors, map: mapa });
-    contentString[
-      i
-    ] = `<div class="text-lg-center pt-3" id="content"><div id="siteNotice"><img width="100px" src="${universidad.logo}"></div><h4 id="firstHeading" class="firstHeading">${universidad.nombre}</h4><div id="bodyContent"><p><b class= h6 mt-1 >Ciudad: </b>${universidad.ciudad}</br><button class="btn btn-danger btn-sm mt-2" onclick="verUniversidad(${i})">Ver Universidad</button></div></div>`;
+    contentString[i] = `
+    <div className="contaier">
+        <div class="container d-flex pt-3" id="content">
+        
+        <div class="p-2"   id="siteNotice">
+            <img width="100px" src="${universidad.logo}">
+        </div>
+        <div class="p-2">
+            <h4 id="firstHeading" class="firstHeading">
+            ${universidad.nombre}
+            </h4>
+                <div id="bodyContent">
+                    <p class="card-text">
+                        <b class= h6 mt-1 >Ciudad: </b>
+                        ${universidad.ciudad}</br>
+                    </p>   
+                    <p class="card-text">
+                        <b class= h6 mt-1 >PBX: </b>
+                        ${universidad.telefono}</br>
+                    </p>   
+                    <p class="card-text">
+                        <b class= h6 mt-1 >Direccion: </b>
+                        ${universidad.direccion}</br>
+                    </p>   
+                    <p class="card-text">
+                        <b class= h6 mt-1 >
+                        Email:
+                         </b>
+                        ${universidad.email}</br>
+                    </p>   
+                    <div className="container">
+                        <button class="btn btn-danger btn-sm mt-2"      onclick="verUniversidad(${i})">Ver Universidad
+                        </button>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+        
+    </div>
+    `;
     infowindow[i] = new google.maps.InfoWindow({
       content: contentString[i]
     });
@@ -46,6 +86,8 @@ function initMap(universidades)
     });
   });
 }
+
+
 
 
 function verUniversidad(id_universidad) {
@@ -82,10 +124,10 @@ function verUniversidad(id_universidad) {
       naturaleza.innerHTML = universidadSeleccionada.naturaleza;
       convocatorias.innerHTML = universidadSeleccionada.convocatorias;
       //especializaciones.innerHTML = "";
-      
+
       //ciclo
       lista = "";
-      universidadSeleccionada.especialidades.forEach(function(especialidad, i) {
+      universidadSeleccionada.especialidades.forEach(function (especialidad, i) {
         lista = `${lista}
         <div class='col-lg-7 col-md-12 col-sm-12 pl-0'>
           <a target='_blank' href=${especialidad.enlace}>
@@ -98,11 +140,11 @@ function verUniversidad(id_universidad) {
       //$("#especialidades").append(lista);
     });
   //window.scrollTo(0, 600);
-  
+
 }
 
 function obtenerUniversidad(universidades, id_universidad) {
-  universidades.forEach(function(universidad, i) {
+  universidades.forEach(function (universidad, i) {
     //console.log("ciclo" + i);
     if (id_universidad === i) {
       //console.log(universidad);
