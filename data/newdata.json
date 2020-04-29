@@ -1,0 +1,2174 @@
+   [
+       {
+           "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Anestesiología y Reanimación",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/anestesiologia-reanimacion",
+           "CONVOCATORIAS": "Semestrales/Anuales"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Pediatríca ",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cirugia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plástica",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cirugia-plastica"
+       },
+       {
+           "ESPECIALIDADES": "Cuidado Intensivo Pediatríco",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cuidado-intensivo-pediatrico"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/dermatologia"
+       },
+       {
+           "ESPECIALIDADES": "Endocrinología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/endocrinologia"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/gastroenterologia"
+       },
+       {
+           "ESPECIALIDADES": "Geriatría",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/geriatria"
+       },
+       {
+           "ESPECIALIDADES": "Hematología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/hematologia"
+       },
+       {
+           "ESPECIALIDADES": "Infectología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/infectologia"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Aeroespacial",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-aeroespacial"
+       },
+       {
+           "ESPECIALIDADES": "Medicina del Deporte ",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-del-deporte"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Fisica y Rehabilitación",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-fisica-rehabilitacion"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Forense",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-forense"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna ",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Neumología Clínica ",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/neumologia-clinica"
+       },
+       {
+           "ESPECIALIDADES": "Neurocirugia",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/neurocirugia"
+       },
+       {
+           "ESPECIALIDADES": "Neurología clínica",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/neurologia-clinica"
+       },
+       {
+           "ESPECIALIDADES": "Neuropediatría",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/neuropediatria"
+       },
+       {
+           "ESPECIALIDADES": "Obstetricía y Ginecología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/obstetricia-ginecologia"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/oftalmologia"
+       },
+       {
+           "ESPECIALIDADES": "Oncohematología Pediátrica",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/oncohematologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/ortopedia-traumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Otorrinolaringología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/otorrinolaringologia"
+       },
+       {
+           "ESPECIALIDADES": "Patología Anatomica y clínica",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/patologia-anatomica-clinica"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Perinatología y Neonatología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/perinatologia-neonatologia"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/psiquiatria"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/radiologia"
+       },
+       {
+           "ESPECIALIDADES": "Radiología Pediatríca",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/radiologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Reumatología",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/reumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Urología ",
+           "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/urologia"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Anestesiología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/anestesiologia",
+           "CONVOCATORIAS": "Anuales"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cardiologia"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Cardiovascular",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-cardiovascular"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Cabeza y Cuello",
+           "LINK": "http://www.umng.edu.co/cirugia-de-cabeza-y-cuello"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Columna",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-columna-pelvis-acetabulo"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Mano y Miembro Superior",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-mano"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Gastrointestinal y Endoscopia Digestiva",
+           "LINK": "http://www.umng.edu.co/cirugia-gastrointestinal-y-endoscopia-digestiva"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Oncológica",
+           "LINK": "http://www.umng.edu.co/cirugia-oncologica"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Oral y Maxilofacial",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-oral-maxilofacial"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Pediatríca ",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plástica Oncológica",
+           "LINK": "http://www.umng.edu.co/cirgugia-plastica-oncologica"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plástica, Reconstructiva y Estética",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaiones-medico-quirurgicas/cirugia-plastica"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Pie y Tobillo",
+           "LINK": "http://www.umng.edu.co/cirugia-de-pie-y-tobillo"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Reconstructiva y del Reemplazo Articular de Cadera y de Rodilla",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-reconstructiva"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Vascular y Angiología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-vascular"
+       },
+       {
+           "ESPECIALIDADES": "Coloproctología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/coloproctologia"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología ",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/dermatologia"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología Oncológica",
+           "LINK": "http://www.umng.edu.co/dermatologia-oncologia"
+       },
+       {
+           "ESPECIALIDADES": "Endocrinología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/endocrinologia"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/gastroenterologia"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y obstetricia ",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-ingenieria/posgrados/especializaciones-medico-quirurgicas/ginecologia-obstetricia"
+       },
+       {
+           "ESPECIALIDADES": "Glaucoma",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/glaucoma"
+       },
+       {
+           "ESPECIALIDADES": "Hematología y Oncología Clinica",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/hematologia-oncologia"
+       },
+       {
+           "ESPECIALIDADES": "Laringología y Vía Superior",
+           "LINK": "http://www.umng.edu.co/laringologia-y-via-superior"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Critica y Cuidado Intensivo",
+           "LINK": "http://www.umng.edu.co/medicina-critica-y-cuidad-intensivo"
+       },
+       {
+           "ESPECIALIDADES": "Medicina del Dolor y Cuidados Paliativos",
+           "LINK": "http://www.umng.edu.co/medicina-del-dolor-y-cuidados-paliativos"
+       },
+       {
+           "ESPECIALIDADES": "Medicina fisica y Rehabilitación",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/medicina-fisica"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/nefrologia"
+       },
+       {
+           "ESPECIALIDADES": "Neonatología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neonatologia"
+       },
+       {
+           "ESPECIALIDADES": "Neumología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neumologia"
+       },
+       {
+           "ESPECIALIDADES": "Neurocirugía",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neurocirugia"
+       },
+       {
+           "ESPECIALIDADES": "Neurología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neurologia"
+       },
+       {
+           "ESPECIALIDADES": "Neurología Pediatríca",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neurologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/oftalmologia"
+       },
+       {
+           "ESPECIALIDADES": "Oncología Radioterapica",
+           "LINK": "http://www.umng.edu.co/oncologia-radioterapica"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedía Oncológica",
+           "LINK": "http://www.umng.edu.co/ortopedia-oncologica"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedía y Traumatología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/ortopedia-traumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Otología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/otologia"
+       },
+       {
+           "ESPECIALIDADES": "Otorrinolaringología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/otorrinolaringologia"
+       },
+       {
+           "ESPECIALIDADES": "Patología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/patologia"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/psiquiatria"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+           "LINK": "http://www.umng.edu.co/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/radiologia"
+       },
+       {
+           "ESPECIALIDADES": "Rehabilitación Oncológica",
+           "LINK": "http://www.umng.edu.co/rehabilitcion-oncologica"
+       },
+       {
+           "ESPECIALIDADES": "Urología",
+           "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/urologia"
+       },
+       {
+           "ESPECIALIDADES": "Urología Oncológica",
+           "LINK": "http://www.umng.edu.co/urologia-oncologica"
+       },
+       {
+           "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Anestesia y Medicina Perioperatoria",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/anestesia-y-medicina-perioperatoria",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología y Endoscopia Digestiva",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/gastroenterologia-y-endoscopia"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Endoscopia",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/ginecologia-y-obstetricia"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Critíca y Cuidado Intensivo",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/medicina-critica"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Materno Fetal",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/medicina-materno-fetal"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Nuclear",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/medicina-nuclear"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmologia",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/oftalmologia"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedía y Traumatología",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/ortopedia-y-traumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría ",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría y Salud Mental",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/psiquiatria-y-salud-mental"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/radiologia-e-imagenes-diagnosticas"
+       },
+       {
+           "ESPECIALIDADES": "Salud Reproductiva Humana",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/salud-reproductiva-humana"
+       },
+       {
+           "ESPECIALIDADES": "Urología ",
+           "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/urologia"
+       },
+       {
+           "ESPECIALIDADES": "Otorrinolaringología",
+           "LINK": "http://www.unisanitas.edu.co/otorrinolaringologia"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://www.unisanitas.edu.co/medicina-interna"
+       },
+       {
+           "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Anestesiología y Reanimación",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-anestesiologia-y-reanimacion",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General ",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-cirugia-general/cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Cardio Vascular",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-cirugia-general/cirugia-cardiovascular"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Cabeza y Cuello",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-cirugia-general/cirugia-cabeza-cuello"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Mama y Tejidos Blandos ",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-cirugia-general/cirugia-cardiovascular-mama-tejidos-blandos"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología y Endoscopia Digestiva",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/gastroenterologia-y-endoscopia-digestiva"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plastica Reconstructiva y Estetica",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/cirugia-plastica-reconstructiva-y-estetica/presentacion-cirugia-plastica-reconstructiva-y-estetica"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Craneofacial",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/cirugia-plastica-reconstructiva-y-estetica/presentacion-cirugia-craneofacial"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Mano",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/cirugia-plastica-reconstructiva-y-estetica/cirugia-de-la-mano"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Endoscopia Ginecologíca ",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/cirugia-endoscopica-ginecologica"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología Oncologíca",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/ginecologia-oncologica"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obtetricía ",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/ginecologia-y-obstetricia"
+       },
+       {
+           "ESPECIALIDADES": "Mastología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/mastologia"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Materno Fetal",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/medicina-materno-fetal"
+       },
+       {
+           "ESPECIALIDADES": "Hemodinamia y Cardología Intervencionista",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/hemodinamia-y-cardiologia-intervencionista"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Critíca y Cuidado Intensivo",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-critica-y-cuidado-intensivo"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de la Actividad Fisica y el Deporte",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-de-la-actividad-fisica-y-del-deporte"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de Urgencias",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-de-urgencias"
+       },
+       {
+           "ESPECIALIDADES": "Medicina del Dolor y Cuidados Paliativos",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-del-dolor-y-cuidados-paliativos"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Familiar",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-familiar"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/cardiologia"
+       },
+       {
+           "ESPECIALIDADES": "Endocrinología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/Endocrinologia"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología y Endoscopia Digestiva",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/gastroenterologia-endoscopia-digestiva"
+       },
+       {
+           "ESPECIALIDADES": "Hematología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/hematologia"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Nuclear",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/medicina-nuclear"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/nefrologia"
+       },
+       {
+           "ESPECIALIDADES": "Reumatología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/Reumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Neurocirugía",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/neurocirugia"
+       },
+       {
+           "ESPECIALIDADES": "Neurología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/neurologia"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/oftalmologia"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Maxilofacial",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-otorrinolaringologia/cirugia-maxilofacial"
+       },
+       {
+           "ESPECIALIDADES": "Otología y Otoneurología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-otorrinolaringologia/otologia-y-otoneurologia"
+       },
+       {
+           "ESPECIALIDADES": "Otorrinolaringología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-otorrinolaringologia/otorrinolaringologia"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Mano",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ortopedia-y-traumatologia/cirugia-mano"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Rodilla",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ortopedia-y-traumatologia/cirugia-rodilla"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedía y Traumatología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ortopedia-y-traumatologia/ortopedia-traumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Patología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/patologia"
+       },
+       {
+           "ESPECIALIDADES": "Neonatología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-pediatria-y-neonatologia/neonatologia"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/sub-pediatria-y-neonatologia/pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/radiologia-e-imagenes-diagnosticas"
+       },
+       {
+           "ESPECIALIDADES": "Toxicología Clinica",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/toxicologia-clinica"
+       },
+       {
+           "ESPECIALIDADES": "Urología",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/urologia"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/Psiquiatria"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Pediatríca",
+           "LINK": "https://www.fucsalud.edu.co/posgrado/Cirugia-Pediatrica"
+       },
+       {
+           "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Electrofisiología Clínica, Estimulación y Arritmias Cardiacas",
+           "LINK": "https://www.javeriana.edu.co/especializacion-electrofisiologia-estimulacion-arritmias-cardiacas",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Mano",
+           "LINK": "https://www.javeriana.edu.co/especializacion-cirugia-mano/"
+       },
+       {
+           "ESPECIALIDADES": "Hemodinamia y Cardiológia Intervencionista",
+           "LINK": "https://www.javeriana.edu.co/especializacion-hemodinamia-y-cardiologia-intervencionista"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Critíca y Cuidados Intensivos ",
+           "LINK": "https://www.javeriana.edu.co/especializacion-medicina-critica-y-cuidados-intensivos"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Familiar ",
+           "LINK": "https://www.javeriana.edu.co/especializacion-medicina-familiar"
+       },
+       {
+           "ESPECIALIDADES": "Endocrinología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-endocrinologia"
+       },
+       {
+           "ESPECIALIDADES": "Neumología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-neumologia"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-cardiologia"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Cardio Vascular",
+           "LINK": "https://www.javeriana.edu.co/especializacion-cirugia-cardio-vascular"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plastica",
+           "LINK": "https://www.javeriana.edu.co/especializacion-cirugia-plastica"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-dermatologia"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología y Endoscopia Digestiva",
+           "LINK": "https://www.javeriana.edu.co/especializacion-gastroenterologia-y-endoscopia-digestiva"
+       },
+       {
+           "ESPECIALIDADES": "Geriatría ",
+           "LINK": "https://www.javeriana.edu.co/especializacion-geriatria"
+       },
+       {
+           "ESPECIALIDADES": "Genetica Medica ",
+           "LINK": "https://www.javeriana.edu.co/especializacion-genetica-medica"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de Urgencias",
+           "LINK": "https://www.javeriana.edu.co/especializacion-medicina-de-urgencias"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-nefrologia"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-anestesiologia"
+       },
+       {
+           "ESPECIALIDADES": "Patología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-patologia"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "https://www.javeriana.edu.co/especializacion-cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://www.javeriana.edu.co/especializacion-pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría de Enlace",
+           "LINK": "https://www.javeriana.edu.co/especializacion-psiquiatria-de-enlace"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría General",
+           "LINK": "https://www.javeriana.edu.co/especializacion-psiquiatria-general"
+       },
+       {
+           "ESPECIALIDADES": "Radiología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-radiologia"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obtetricia",
+           "LINK": "https://www.javeriana.edu.co/especializacion-ginecologia-y-obstetricia"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna ",
+           "LINK": "https://www.javeriana.edu.co/especializacion-en-medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Neurocitrugía",
+           "LINK": "https://www.javeriana.edu.co/especializacion-neurocirugia"
+       },
+       {
+           "ESPECIALIDADES": "Neurología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-neurologia"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-oftalmologia"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia infantil",
+           "LINK": "https://www.javeriana.edu.co/especializacion-ortopedia-infantil"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-ortopedia-y-traumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Otorrinolaringología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-otorrinolaringologia"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría de Niños y Adolescentes ",
+           "LINK": "https://www.javeriana.edu.co/especializacion-psiquiatria-de-ninos-y-adolescentes"
+       },
+       {
+           "ESPECIALIDADES": "Urología",
+           "LINK": "https://www.javeriana.edu.co/especializacion-urologia"
+       },
+       {
+           "UNIVERSIDAD": "Universidad del Rosario",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Urología ",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Urologia/Inicio/",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Retina y Vitreo",
+           "LINK": "https://www.urosario.edu.co/Admisiones/Posgrado/Especializaciones-Medico-Quirurgicas/Especializacion-en-Retina-y-Vitreo/nuevo/colombia/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Materno Fetal",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Medicina-Materno-Fetal/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Coloproctología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Coloproctologia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cardiologia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Infectología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Infectologia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Medicina-Interna/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Nefrologia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Neurología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Neurologia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Radiología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Radiologia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de Emergencias",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Medicina-de-Emergencias/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Anestesia Cardiotoracica ",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesia-Cardiotoracica/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología - FCI",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesiologia-FCI/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología - HOK",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesiologia-HOK/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Cardiovascular",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cirugia-Cardiovascular/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cirugia-General/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Neurocirugía",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Neurocirugia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Anestesia Cardiotorácica",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesia-Cardiotoracica/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología - FCI",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesiologia-FCI/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología - HOK",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesiologia-HOK/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de mano",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cirugia-de-Mano/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Oftalmologia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Mastología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Mastologia/Perfiles/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Critica y Cuidado Intensivo",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Medicina-Critica-y-Cuidado-Intensivo/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología FSFB",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Ortopedia-y-Traumatologia-FSFB/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": " Ortopedia y Traumatología HOK",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Ortopedia-y-Traumatologia-HOK/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Otorrino - laringología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Otorrino-laringologia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia ",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Programas/Especializaciones/Especializaciones-Medico-Quirurgicas/Programas-Departamento-de-Ciencias-Reproductivas/"
+       },
+       {
+           "ESPECIALIDADES": "Cuidado Intensivo Pediatríco",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cuidado-Intensivo-Pediatrico/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Neonatología",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Neonatologia/Inicio/"
+       },
+       {
+           "ESPECIALIDADES": "Pedriatría",
+           "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Pediatria/Inicio/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad de la Sabana",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Cuidado Intensivo Pediátrico ",
+           "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-cuidado-intensivo-pediatrico/especializacionencuidadointensivopediatrico/",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Crítica y Cuidado Intensivo ",
+           "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-medicina-critica-y-cuidado-intensivo/especializacionenmedicinacriticaycuidadointensivo/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Familiar y Comunitaria",
+           "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-medicina-familiar-y-comunitaria/especializacionenmedicinafamiliarycomunitaria/"
+       },
+       {
+           "ESPECIALIDADES": "Neumología",
+           "LINK": "https://www.unisabana.edu.co/especializacionenneumologia/"
+       },
+       {
+           "ESPECIALIDADES": "Electrofisiología Cardiovascular",
+           "LINK": "https://www.unisabana.edu.co/especializacionenelectrofisiologiacardiovascular/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://www.unisabana.edu.co/especializacionenmedicinainterna/"
+       },
+       {
+           "ESPECIALIDADES": "Reumatología ",
+           "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-neurologia/especializacionenneurologia/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "https://www.unisabana.edu.co/especializacionencirugiageneral/"
+       },
+       {
+           "ESPECIALIDADES": "Neurología",
+           "LINK": "https://www.unisabana.edu.co/especializacionenreumatologia/"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-oftalmologia/especializacionenoftalmologia/"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología y Medicina Perioperatoria",
+           "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-anestesiologia-y-medicina-perioperatoria/especializacionenanestesiologiaymedicinaperioperatoria/"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia ",
+           "LINK": "https://www.unisabana.edu.co/especializacionenginecologiayobstetricia/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Física y Rehabilitación ",
+           "LINK": "https://www.unisabana.edu.co/especializacionenmedicinafisicayrehabilitacion/"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://www.unisabana.edu.co/especializacionenpediatria/"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas ",
+           "LINK": "https://www.unisabana.edu.co/especializacionenradiologiaeimagenesdiagnosticas/"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología",
+           "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-gastroenterologia/especializacionengastroenterologia/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina del Dolor y Cuidados Paliativos ",
+           "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-medicina-del-dolor-y-cuidados-paliativos/nuestro-programa/"
+       },
+       {
+           "ESPECIALIDADES": "Farmacología Clínica ",
+           "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-farmacologia-clinica/especializacionenfarmacologiaclinica/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad de los Andes",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://medicina.uniandes.edu.co/index.php/es/?option=com_content&view=article&id=430",
+           "CONVOCATORIAS": "Anuales"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Juan N. Corpas",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Otología y Neurotología",
+           "LINK": "http://www.juanncorpas.edu.co/oferta-academica/posgrado/posgrados-medico-quirurgicos/otologia-y-neurotologia/",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Familiar Integral",
+           "LINK": "http://www.juanncorpas.edu.co/oferta-academica/posgrado/posgrados-medico-quirurgicos/medicina-familiar-integral/"
+       },
+       {
+           "ESPECIALIDADES": "Terapéuticas Alternativas y Farmacología Vegetal",
+           "LINK": "http://www.juanncorpas.edu.co/oferta-academica/posgrado/posgrados-medico-quirurgicos/terapeuticas-alternativas-y-farmacologia-vegetal/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://www.juanncorpas.edu.co/oferta-academica/posgrado/posgrados-medico-quirurgicos/medicina-interna/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad del Bosque",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bogotá D.C.",
+           "ESPECIALIDADES": "Anestesia Cardiovascular y Torácica",
+           "LINK": "https://www.unbosque.edu.co/especializacion/anestesia-cardiovascular-y-toracica",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología FSFB",
+           "LINK": "https://www.unbosque.edu.co/especializacion/anestesiologia-fsfb"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología HSB",
+           "LINK": "https://www.unbosque.edu.co/especializacion/anestesiologia-hsb"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología Adultos",
+           "LINK": "https://www.unbosque.edu.co/especializacion/cardiologia-adultos"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología Pediatríca",
+           "LINK": "https://www.unbosque.edu.co/especializacion/cardiologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía de Mano",
+           "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-de-mano"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía del Torax",
+           "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-del-torax"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plástica Reconstructiva y Estética",
+           "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-plastica-reconstructiva-y-estetica"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Vascular y Angiología",
+           "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-vascular-y-angiologia"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "https://www.unbosque.edu.co/especializacion/dermatologia"
+       },
+       {
+           "ESPECIALIDADES": "Enfermería Neonatal",
+           "LINK": "https://www.unbosque.edu.co/especializacion/enfermeria-neonatal"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología Pediátrica",
+           "LINK": "https://www.unbosque.edu.co/especializacion/gastroenterologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia",
+           "LINK": "https://www.unbosque.edu.co/especializacion/ginecologia-y-obstetricia"
+       },
+       {
+           "ESPECIALIDADES": "Infectología Pediátrica",
+           "LINK": "https://www.unbosque.edu.co/especializacion/infectologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Crítica y Cuidado Intensivo",
+           "LINK": "https://www.unbosque.edu.co/especializacion/medicina-critica-cuidado-intensivo"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Crítica y Cuidado Intensivo Pediátrico",
+           "LINK": "https://www.unbosque.edu.co/especializacion/medicina-critica-y-cuidado-intensivo-pediatrico"
+       },
+       {
+           "ESPECIALIDADES": "Medicina del Deporte",
+           "LINK": "https://www.unbosque.edu.co/especializacion/medicina-del-deporte"
+       },
+       {
+           "ESPECIALIDADES": " Medicina del Dolor y Cuidados Paliativos",
+           "LINK": "https://www.unbosque.edu.co/especializacion/medicina-del-dolor-y-cuidados-paliativos"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Familiar",
+           "LINK": "https://www.unbosque.edu.co/especializacion/medicina-familiar"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Física y Rehabilitación",
+           "LINK": "https://www.unbosque.edu.co/especializacion/medicina-fisica-y-rehabilitacion"
+       },
+       {
+           "ESPECIALIDADES": " Medicina Interna FSFB",
+           "LINK": "https://www.unbosque.edu.co/especializacion/medicina-interna-fsfb"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna HSC",
+           "LINK": "https://www.unbosque.edu.co/especializacion/medicina-interna-hsc"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Materno-Fetal",
+           "LINK": "https://www.unbosque.edu.co/especializacion/medicina-materno-fetal"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología Pediátrica",
+           "LINK": "https://www.unbosque.edu.co/especializacion/nefrologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Neonatología",
+           "LINK": "https://www.unbosque.edu.co/especializacion/neonatologia"
+       },
+       {
+           "ESPECIALIDADES": "Neumología",
+           "LINK": "https://www.unbosque.edu.co/especializacion/neumologia"
+       },
+       {
+           "ESPECIALIDADES": "Neumología Pediatríca",
+           "LINK": "https://www.unbosque.edu.co/especializacion/neumologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Neurocirugía",
+           "LINK": "https://www.unbosque.edu.co/especializacion/neurocirugia"
+       },
+       {
+           "ESPECIALIDADES": "Neurología",
+           "LINK": "https://www.unbosque.edu.co/especializacion/neurologia"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "https://www.unbosque.edu.co/especializacion/oftalmologia"
+       },
+       {
+           "ESPECIALIDADES": " Oncología Clínica",
+           "LINK": "https://www.unbosque.edu.co/especializacion/oncologia-clinica"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "https://www.unbosque.edu.co/especializacion/ortopedia-y-traumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://www.unbosque.edu.co/especializacion/pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría de Enlace e Interconsultas",
+           "LINK": "https://www.unbosque.edu.co/especializacion/psiquiatria-de-enlace-e-interconsultas"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría Infantil y del Adolescente",
+           "LINK": "https://www.unbosque.edu.co/especializacion/psiquiatria-infantil-y-del-adolescente"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas",
+           "LINK": "https://www.unbosque.edu.co/especializacion/radiologia-e-imagenes-diagnosticas"
+       },
+       {
+           "ESPECIALIDADES": "Reumatología Pediátrica",
+           "LINK": "https://www.unbosque.edu.co/especializacion/reumatologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Salud Familiar y Comunitaria",
+           "LINK": "https://www.unbosque.edu.co/especializacion/salud-familiar-y-comunitaria"
+       },
+       {
+           "ESPECIALIDADES": "Urología",
+           "LINK": "https://www.unbosque.edu.co/especializacion/urologia"
+       },
+       {
+           "ESPECIALIDADES": "Odontología Pediátrica",
+           "LINK": "https://www.unbosque.edu.co/especializacion/odontologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": " Cirugía Oral y Maxilofacial",
+           "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-oral-y-maxilofacial"
+       },
+       {
+           "ESPECIALIDADES": "Endodoncia",
+           "LINK": "https://www.unbosque.edu.co/especializacion/endodoncia"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "https://www.unbosque.edu.co/especializacion/psiquiatria"
+       },
+       {
+           "UNIVERSIDAD": "Universidad CES",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Medellín",
+           "ESPECIALIDADES": "Anestesia Cardiovascular y Torácica",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/anestesia-cardiovascular-y-toracica/",
+           "CONVOCATORIAS": "Anuales"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/anestesiologia/"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cardiologia/"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología Intervencionista y Hemodinamica",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cardiologia-intervencionista-y-hemodinamica/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Cardiovascular",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-cardiovascular/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-general/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Laparoscopica Avanzada",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-laparoscopica-avanzada/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Maxilofacial",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/especializacion-en-cirugia-maxilofacial/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plastica Facial",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-plastica-facial/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plástica, Reconstructiva y Estética",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-plastica-reconstructiva-y-estetica/"
+       },
+       {
+           "ESPECIALIDADES": "Cuidado Intensivo Pediátrico",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cuidado-intensivo-pediatrico/"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/dermatologia/"
+       },
+       {
+           "ESPECIALIDADES": "Dermatopatología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/dermatopatologia/"
+       },
+       {
+           "ESPECIALIDADES": "Ecocardiografía",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/ecocardiografia/"
+       },
+       {
+           "ESPECIALIDADES": "Electrofisiología Cardíaca",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/electrofisiologia-cardiaca/"
+       },
+       {
+           "ESPECIALIDADES": "Endodoncia",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/especializacion-en-endodoncia/"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/gastroenterologia/"
+       },
+       {
+           "ESPECIALIDADES": "Gineco - Obstetricia",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/ginecologia-y-obstetricia/"
+       },
+       {
+           "ESPECIALIDADES": "Infectología pediátrica",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/infectologia-pediatrica/"
+       },
+       {
+           "ESPECIALIDADES": "Mastología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/mastologia/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Crítica y Cuidado Intensivo",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/medicina-critica-y-cuidado-intensivo/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de Urgencias",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/medicina-de-urgencias/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/medicina-interna/"
+       },
+       {
+           "ESPECIALIDADES": "Neonatología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/neonatologia/"
+       },
+       {
+           "ESPECIALIDADES": " Neurología clínica",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/neurologia-clinica/"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/oftalmologia/"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/pediatria/"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/psiquiatria/"
+       },
+       {
+           "ESPECIALIDADES": "Radiología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/radiologia/"
+       },
+       {
+           "ESPECIALIDADES": "Urología",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/urologia/"
+       },
+       {
+           "ESPECIALIDADES": "Perfusión – Circulación Extracorpórea",
+           "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/especializacion-perfusion-circulacion-extracorporea/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad de Antioquia",
+           "NATURALEZA": "Pública",
+           "CIUDAD": "Medellín",
+           "ESPECIALIDADES": "Alergología Clínica",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/8a0d5e72-5a39-4b0d-b987-6945c2df719e/Documento+Maestro+Alergologia.pdf?MOD=AJPERES&CVID=lVOMtAl",
+           "CONVOCATORIAS": "Anuales"
+       },
+       {
+           "UNIVERSIDAD": "http://www.udea.edu.co/wps/portal/udea/web/inicio/estudiar-udea/quiero-estudiar-udea/posgrado/oferta-programas-posgrado/especialidades-medicas",
+           "ESPECIALIDADES": "Anestesiología y Reanimación",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/2f593fc0-4e75-4305-8e7d-875b0fd2e6b6/Documento+Maestro+Anestesiolog%C3%ADa+y+Reanimaci%C3%B3n+2012.pdf?MOD=AJPERES&CVID=lVOMGaO"
+       },
+       {
+           "UNIVERSIDAD": "La pagina no muestra las especialidades medicas. ",
+           "ESPECIALIDADES": "Cirugia General",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/cd9d17c0-7225-4907-a2cb-1631f2153b68/Documento+Maestro+Cirug%C3%ADa+General+2012.pdf?MOD=AJPERES&CVID=lVONc1p"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plástica, Maxilofacial y de la Mano",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/ef9a241c-daf6-4d32-ad8b-749ee3f331e1/Documento+Maestro+Cirug%C3%ADa+Pl%C3%A1stica+2012.pdf?MOD=AJPERES&CVID=lVONlwN"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/efdd7afb-62c2-496b-afb5-085508b0c50d/Documento+Maestro+Dermatolog%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVONDd-"
+       },
+       {
+           "ESPECIALIDADES": "Gineco - Obstetricia",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/c2198521-cdc1-4459-8130-a96350923991/Documento+Maestro+Ginecolog%C3%ADa+y+Obstetricia.pdf?MOD=AJPERES&CVID=lVOOgEP"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Aplicada a la Actividad Fisica y del Deporte",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/4dfdb706-0aa7-451f-ba35-2348b3972ca4/Documento+Maestro+Medicina+Aplicada+a+la+Actividad+F%C3%ADsica+y+al+Deporte+2012.pdf?MOD=AJPERES&CVID=lVOOX09"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de Urgencias",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/4dfdb706-0aa7-451f-ba35-2348b3972ca4/Documento+Maestro+Medicina+Aplicada+a+la+Actividad+F%C3%ADsica+y+al+Deporte+2012.pdf?MOD=AJPERES&CVID=lVOOX09"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Fisica y Rehabilitación",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/c5c63bc0-9b5b-45f5-bede-3cde16abd2cb/Documento+Maestro+Medicina+Fisica+y+Rehabilitaci%C3%B3n.pdf?MOD=AJPERES&CVID=lVOPxhp"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna ",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/2f70860c-5cd9-4140-9645-746a74e5f12b/Documento+Maestro+Medicina+Interna+2012.pdf?MOD=AJPERES&CVID=lVOPFP9"
+       },
+       {
+           "ESPECIALIDADES": "Neurocirugía",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/8992ef8e-3a44-4082-901c-f5644f827eb0/Documento+Maestro+Neurocirug%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVOQyk."
+       },
+       {
+           "ESPECIALIDADES": "Neurología",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/1ceb7aa6-f5b7-4b89-9fbd-92c6cde9e4e4/Documento+Maestro+Neurolog%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVOQJ2O"
+       },
+       {
+           "ESPECIALIDADES": "Oftamología",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/f0fc9bc2-b0d9-4dcb-a1f5-e5bdd9941564/Documento+Maestro+Oftalmolog%C3%ADa+2012+%281%29.pdf?MOD=AJPERES&CVID=lVORhXW"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/72ce0f95-4d06-46bd-92d5-f8e0aac36f80/Documento+Maestro+Ortopedia+y+Traumatolog%C3%ADa.pdf?MOD=AJPERES&CVID=lVORu8B"
+       },
+       {
+           "ESPECIALIDADES": "Otorrinolarigología y Cirugía de Cabeza y Cuello",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/4da20a51-61b4-44f2-814e-148748d582a1/Documento+Maestro+Otorrinolaringolog%C3%ADa+y+Cirug%C3%ADa+Cabeza+y+Cuello+2012.pdf?MOD=AJPERES&CVID=lVORE4Z"
+       },
+       {
+           "ESPECIALIDADES": "Patología ",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/91919a76-21c3-44c3-a7ba-28fc2c5f8824/Documento+Maestro+Patologia+2012.pdf?MOD=AJPERES&CVID=lVOROY4"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/a37a6dac-d7b7-4e2c-8d04-8baec0cbbca0/Documento+Maestro+Pediatria+2012.pdf?MOD=AJPERES&CVID=lVORYm1"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/f2dfa8b8-375e-45ff-a719-c8f7b597a9ee/Documento+Maestro+Psiquiatr%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVOSnxi"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diágnosticas",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/7f1b6715-3a05-46d4-a73a-2fecd924ac84/Documento+Maestro+Radiologia+2012.pdf?MOD=AJPERES&CVID=lVOSF3m"
+       },
+       {
+           "ESPECIALIDADES": "Toxicología Clínica ",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/55535d64-32a6-44ef-9738-213a982055af/Documento+Maestro+Toxicolog%C3%ADa+Cl%C3%ADnica+2012.pdf?MOD=AJPERES&CVID=lVOTjwF"
+       },
+       {
+           "ESPECIALIDADES": "Urología",
+           "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/8570e836-1844-4d59-981f-3d7200a207d3/Documento+Maestro+Urolog%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVOTsr7"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Pontifica Bolivariana\r\n\r\n",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Medellín",
+           "ESPECIALIDADES": "Anestesia Cardiovascular",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-anestesia-cardiovascular-medellin",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-anestesiologia-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cardiologia-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología Intervencionista y Hemodinamica",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cardiologia-intervencionista-hemodinamica-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Cardilogía Pediátrica",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cardiologia-pediatrica-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Cardiovascular",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cirugia-cardiovascular-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cirugia-general-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-dermatologia-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Ecocardiografía",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-ecocardiografia-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Endocrinología diabetes y Metabolistmo del Aldulto",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-endocrinologia-diabetes-metabolismo-adulto-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Enfermedades infeccione",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-enfermedades-infecciosas-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Gineco - Obstetricia",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-ginecologia-obstetricia-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Crítica y Cuidados Intensivos",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-medicina-critica-cuidados-intensivos-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-medicina-interna-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Materno Fetal",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-medicina-materno-fetal-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de la Actividad Fisica y del Deporte",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-medicina-actividad-fisica-deporte-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología ",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-nefrologia-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Neonatología",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-neonatologia-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Oftamología",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-oftalmologia-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatologia ",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-ortopedia-traumatologia-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatologia Pediatríca",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-ortopedia-traumatologia-pediatrica-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Pediatria.",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-pediatria-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Psiaquiatría",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-psiquiatria-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatrica de Enlace ",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-psiquiatria-enlace-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e imágenes Diágnosticas ",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-radiologia-imagenes-diagnosticas-medellin"
+       },
+       {
+           "ESPECIALIDADES": "Reumatología",
+           "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-reumatologia-medellin"
+       },
+       {
+           "UNIVERSIDAD": "Corporación Universitaria Remington",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Medellín",
+           "ESPECIALIDADES": "Pediatría ",
+           "LINK": "https://www.uniremington.edu.co/facultades/facultad-de-ciencias-de-la-salud/pediatria/",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Gineco - Obstetricia",
+           "LINK": "https://www.uniremington.edu.co/facultades/facultad-de-ciencias-de-la-salud/gineco-obstetricia/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\r\n\r\n",
+           "NATURALEZA": "Pública",
+           "CIUDAD": "Cali",
+           "ESPECIALIDADES": "Anatomía Patologica y Patología Clínica",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-anatomia-patologica-y-patologia-clinica",
+           "CONVOCATORIAS": "Anuales"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología y Reanimación",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-anestesiologia-y-reanimacion"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía del Trauma y Emergencias",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-cirugia-de-trauma-y-emergencias"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Pediátrica ",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-cirugia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plástica,Estética, Maxilofacial y de la Mano",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-cirugia-plastica-estetica-maxilofacial-y-de-la-mano"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología y Cirugía Dermatógica",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-dermatologia-y-cirugia-dermatologica"
+       },
+       {
+           "ESPECIALIDADES": "Geriatría",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-geriatria"
+       },
+       {
+           "ESPECIALIDADES": "Gineco-Obstetricia",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-ginecologia-y-obstetricia"
+       },
+       {
+           "ESPECIALIDADES": "Medicna Crítica y Cuidados Intensivos",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-medicina-critica-y-cuidado-intensivo"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Familiar",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-medicina-familiar"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Fisica y Rehabilitación",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-medicina-fisica-y-rehabilitacion"
+       },
+       {
+           "ESPECIALIDADES": "Medicna Interna",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-nefrologia"
+       },
+       {
+           "ESPECIALIDADES": "Neurocirugía",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-neurocirugia"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-oftalmologia"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-ortopedia-y-traumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Otorrinolaringología",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-otorrinolaringologia"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/2015-09-10-13-33-40"
+       },
+       {
+           "ESPECIALIDADES": "Radiodiagnóstico",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/2015-09-10-13-34-35"
+       },
+       {
+           "ESPECIALIDADES": "Urología",
+           "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/2015-09-10-13-34-51"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Libre",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Cali",
+           "ESPECIALIDADES": "Ginecología y Obstetricia ",
+           "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-ginecologia-y-obstetricia",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría ",
+           "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatria",
+           "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-psiquiatria"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-dermatologia"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Javeriana",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Cali",
+           "ESPECIALIDADES": "Oftamología",
+           "LINK": "https://www.javerianacali.edu.co/programas/especializacion-en-oftalmologia",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de Urgencias",
+           "LINK": "https://www.javerianacali.edu.co/programas/especializacion-en-medicina-de-urgencias"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Familiar ",
+           "LINK": "https://www.javerianacali.edu.co/programas/especializacion-en-medicina-familiar"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Forence ",
+           "LINK": "https://www.javerianacali.edu.co/programas/especializacion-en-medicina-forense"
+       },
+       {
+           "UNIVERSIDAD": "Universidad ICESI",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Cali",
+           "ESPECIALIDADES": "Dermatología ",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-dermatologia",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Raumatología",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-reumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Hemato-Oncología ",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-hematologia-y-oncologia"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología Pediatrica ",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-cardiologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-radiologia-e-imagenes-diagnosticas"
+       },
+       {
+           "ESPECIALIDADES": "Cirugia de Trasplantes y Orgaos Abdominales",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-cirugia-de-trasplantes-de-organos-abdominales"
+       },
+       {
+           "ESPECIALIDADES": "Cardiología ",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-cardiologia"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología Pediátrica "
+       },
+       {
+           "ESPECIALIDADES": "Gineco-Obstetricia ",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-ginecologia-y-obstetricia"
+       },
+       {
+           "ESPECIALIDADES": "Alergología",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-alergologia"
+       },
+       {
+           "ESPECIALIDADES": "Cirugia de Cabeza y Cuello",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-cirugia-de-cabeza-y-cuello"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de Emergencias ",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-medicina-de-emergencia"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría ",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-psiquiatria"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-anestesiologia"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-ortopedia-y-traumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Neurología",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-neurologia"
+       },
+       {
+           "ESPECIALIDADES": "Neurocirugía",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-genetica-medica"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología Pediátrica ",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-nefrologia-pediatrica"
+       },
+       {
+           "ESPECIALIDADES": "Infectología",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-infectologia"
+       },
+       {
+           "ESPECIALIDADES": "Genética Médica",
+           "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-genetica-medica"
+       },
+       {
+           "UNIVERSIDAD": "Universidad del Norte -UNINORTE",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Barranquilla",
+           "ESPECIALIDADES": "Ergonomía",
+           "LINK": "https://www.uninorte.edu.co/web/especializacion-en-ergonomia/especializacion-en-ergonomia",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://www.uninorte.edu.co/web/especializacion-en-medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Neonatología",
+           "LINK": "https://www.uninorte.edu.co/web/especializacion-en-neonatologia"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "https://www.uninorte.edu.co/web/especializacion-en-oftalmologia"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://www.uninorte.edu.co/web/especializacion-en-pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "https://www.uninorte.edu.co/web/especializacion-en-psiquiatria"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas",
+           "LINK": "https://www.uninorte.edu.co/web/especializacion-en-radiologia-e-imagenes"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Metropolitana",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Barranquilla",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología y Reanimación",
+           "LINK": "http://www.unimetro.edu.co/especializacion-en-anestesiologia-y-reanimacion/"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia",
+           "LINK": "http://www.unimetro.edu.co/posgrado-en-ginecologia-y-obstetricia/"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://www.unimetro.edu.co/postgrado-en-pediatria/"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas",
+           "LINK": "http://www.unimetro.edu.co/especializacion-en-psicologia-clinica-2/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://www.unimetro.edu.co/cirugia-general-2/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Libre",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Barranquilla",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia",
+           "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-ginecologia"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-ortopedia-y-traumatologia"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Barranquilla",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Crítica y Cuidados Intensivo",
+           "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-medicina-critica-y-cuidados-intensivos/32"
+       },
+       {
+           "ESPECIALIDADES": "Neurología",
+           "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-neurologia/59"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-medicina-interna/60"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plástica, Reconstructuva y Estética",
+           "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-cirugia-plastica-reconstructiva-y-estetica/61"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia",
+           "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-ginecologia-y-obstetricia/62"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-pediatria/63"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-psiquiatria/64"
+       },
+       {
+           "ESPECIALIDADES": "Nefrología",
+           "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-nefrologia/106"
+       },
+       {
+           "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+           "NATURALEZA": "Pública",
+           "CIUDAD": "Cartagena",
+           "CONVOCATORIAS": "Semestrales/Anuales"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-psiquiatria"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-ortopedia-y-traumatologia"
+       },
+       {
+           "ESPECIALIDADES": "Patología",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-patologia"
+       },
+       {
+           "ESPECIALIDADES": "Otorrinolaringología",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especialidad-en-otorrinolaringologia"
+       },
+       {
+           "ESPECIALIDADES": "Neurocirugía",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-neurocirugia"
+       },
+       {
+           "ESPECIALIDADES": "Urología",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-urologia"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-radiologia-e-imagenes-diagnosticas"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología y Reanimación",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-anestesiologia-y-reanimacion"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-ginecologia-y-obstetricia"
+       },
+       {
+           "ESPECIALIDADES": "Medicna Cr´tica y Cuidados Intensivos",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-medicina-critica-y-cuidados-intensivos"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-dermatologia"
+       },
+       {
+           "UNIVERSIDAD": "Universidad del Sinú- UNISINU",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Cartagena",
+           "CONVOCATORIAS": "Semestral"
+       },
+       {
+           "ESPECIALIDADES": "Gineco-Obstetricia",
+           "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-ginecologia-y-obstetricia-snies21447/"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología",
+           "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-en-anestesiologia-snies101840/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-medicina-interna-snies21456/"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-en-oftalmologia-snies21446/"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-pediatria-snies21448/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía Plástica, Estética y Reconstructiva",
+           "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-cirugia-plastica-estetica-y-reconstructiva-snies-103321/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+           "NATURALEZA": "Publica ",
+           "CIUDAD": "Bucaramanga",
+           "ESPECIALIDADES": "Anestesiologia y reamnimacion ",
+           "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/anestesiologiaReanimacion/index.html"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionCirugiaGeneral/index.jsp?variable=263"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía plástica, reconstructiva y estética ",
+           "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/espCirugiaPlastica/index.jsp?variable=312"
+       },
+       {
+           "ESPECIALIDADES": "Ginecologia y obstetricia ",
+           "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionGinecologiaObstetricia/index.jsp?variable=262"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionMedicinaInterna/index.jsp?variable=264"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionOftalmologia/index.jsp?variable=267"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionOrtopediaTraumatologia/index.jsp?variable=209"
+       },
+       {
+           "ESPECIALIDADES": "Patología",
+           "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionPatologia/index.jsp?variable=265"
+       },
+       {
+           "ESPECIALIDADES": " Pediatría",
+           "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionPediatria/index.jsp?variable=269"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Bucaramanga",
+           "ESPECIALIDADES": "Anestesiología",
+           "LINK": "https://www.unab.edu.co/programas/anestesiolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia",
+           "LINK": "https://www.unab.edu.co/programas/ginecolog%C3%ADa-y-obstetricia-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://www.unab.edu.co/programas/medicina-interna-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "ESPECIALIDADES": "Oftalmología",
+           "LINK": "https://www.unab.edu.co/programas/oftalmolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+           "LINK": "https://www.unab.edu.co/programas/radiolog%C3%ADa-e-im%C3%A1genes-diagn%C3%B3sticas-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "ESPECIALIDADES": "Urología",
+           "LINK": "https://www.unab.edu.co/programas/urolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "https://www.unab.edu.co/programas/dermatolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Critica y Cuidado Intensivo del Adulto",
+           "LINK": "https://www.unab.edu.co/programas/medicina-cr%C3%ADtica-y-cuidado-intensivo-del-adulto-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Nuclear",
+           "LINK": "https://www.unab.edu.co/programas/medicina-nuclear-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "ESPECIALIDADES": "Ortopedia y Traumatología",
+           "LINK": "https://www.unab.edu.co/programas/ortopedia-y-traumatolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Radiología Intervencionista",
+           "LINK": "https://www.unab.edu.co/programas/radiolog%C3%ADa-intervencionista-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial"
+       },
+       {
+           "UNIVERSIDAD": "Universidad de Caldas",
+           "NATURALEZA": "Pública",
+           "CIUDAD": "Manizales",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiologia",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-anestesiologi%C2%ADa/"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-cirugi%C2%ADa-general/"
+       },
+       {
+           "ESPECIALIDADES": "Dermatología",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-dermatologi%C2%ADa/"
+       },
+       {
+           "ESPECIALIDADES": "Epidemiología",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-epidemiologia/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna-Geriatria",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-medicina-interna-geriatria/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina de Urgencias",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-medicina-de-urgencias/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-medicina-interna/"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-pediatri%C2%ADa/"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-psiquiatri%C2%ADa/"
+       },
+       {
+           "ESPECIALIDADES": "Obstetricia y Ginecología",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-obstetricia-y-ginecologi%C2%ADa/"
+       },
+       {
+           "ESPECIALIDADES": "Sexología Clinica",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-sexologia-clinica/"
+       },
+       {
+           "ESPECIALIDADES": "Gastroenterología Clinico Quirúrgica",
+           "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-gastroenterologi%c2%ada-cli%c2%adnico-quirurgica/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad de Manizales- UM",
+           "NATURALEZA": "Privada",
+           "CIUDAD": "Manizales",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Critica y Cuidados Intensivos",
+           "LINK": "https://umanizales.edu.co/Programa/especializacion-en-medicina/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad del Cauca",
+           "NATURALEZA": "Pública",
+           "CIUDAD": "Popayán ",
+           "CONVOCATORIAS": "Anuales"
+       },
+       {
+           "ESPECIALIDADES": "Anatomía Patológica",
+           "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-anatomia-patologica"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología",
+           "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-anestesiologia"
+       },
+       {
+           "ESPECIALIDADES": "Cirugía General",
+           "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia",
+           "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-ginecologia-y-obstetricia"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Familiar",
+           "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-medicina-familiar"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Neurorehabilitación"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-pediatria"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Tecnologica de Pererira-UTP",
+           "NATURALEZA": "Pública",
+           "CIUDAD": "Pereira",
+           "CONVOCATORIAS": "Semestrales"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Critica y Cuidado Intensivo",
+           "LINK": "https://salud.utp.edu.co/especializaciones/medicina-critica-cuidado-intensivo/"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://salud.utp.edu.co/especializaciones/medicina-interna/"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://salud.utp.edu.co/especializaciones/pediatria/"
+       },
+       {
+           "ESPECIALIDADES": "Psiquiatría",
+           "LINK": "https://salud.utp.edu.co/especializaciones/psiquiatria/"
+       },
+       {
+           "ESPECIALIDADES": "Radiología e Imágenes Diágnostocas",
+           "LINK": "https://salud.utp.edu.co/especializaciones/radiologia/"
+       },
+       {
+           "UNIVERSIDAD": "Universidad Surcolombiana -SURCO",
+           "NATURALEZA": "Pública",
+           "CIUDAD": "Neiva ",
+           "CONVOCATORIAS": "Anuales"
+       },
+       {
+           "ESPECIALIDADES": "Anestesiología y Reanimación",
+           "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/anestesiologia-y-reanimacion"
+       },
+       {
+           "ESPECIALIDADES": "Cirugia General",
+           "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/cirugia-general"
+       },
+       {
+           "ESPECIALIDADES": "Ciudado Critico",
+           "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/especializacion-enfermeria-cuidado-critico"
+       },
+       {
+           "ESPECIALIDADES": "Epidemiología",
+           "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/especializacion-en-epidemiologia"
+       },
+       {
+           "ESPECIALIDADES": "Medicina Interna",
+           "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/medicina-interna"
+       },
+       {
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/pediatria"
+       },
+       {
+           "ESPECIALIDADES": "Ginecología y Obstetricia",
+           "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/ginecologia-y-obstetricia"
+       },
+       {
+           "UNIVERSIDAD": "Universidad de Boyacá- UNIBOYACA",
+           "NATURALEZA": "Pública",
+           "CIUDAD": "Tunja",
+           "ESPECIALIDADES": "Mediccina del Deporte y la Actividad Fisica",
+           "LINK": "https://www.uniboyaca.edu.co/es/ciencias-de-la-salud/especializacion-medico-clinica-medicina-del-deporte-y-la-actividad-fisica",
+           "CONVOCATORIAS": "Semestrales",
+           "undefined": "Carrera 2da. Este # 64-169 Edificio 1 Piso 1"
+       },
+       {
+           "UNIVERSIDAD": "Universidad del Qunidio",
+           "NATURALEZA": "Pública",
+           "CIUDAD": "Armenia",
+           "ESPECIALIDADES": "Pediatría",
+           "LINK": "http://www.uniquindio.edu.co/publicaciones/estudia_especializacion_en_pediatria_pub",
+           "CONVOCATORIAS": "Semestrales",
+           "undefined": "Carreara 15 Calle 12 Norte"
+       }
+   ]
