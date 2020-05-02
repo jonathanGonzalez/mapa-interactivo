@@ -1,4 +1,6 @@
-console.log("Data comverter linked");
+// console.log("Data comverter linked");
+
+
 
 function getData2() {
   datajson2 = [];
@@ -17,8 +19,23 @@ const convertData = (datajson2) => {
   //   // console.log(universidad.UNIVERSIDAD);
   // }
   listaUniversidades.map(uni =>{
-    
-    console.log(uni.UNIVERSIDAD)
+   
+    if(uni.UNIVERSIDAD){
+      // console.log(uni.UNIVERSIDAD)
+      // console.log(uni);
+      listaUniversidades.map(universidad=>{
+        console.log(universidad.UNIVERSIDAD);
+
+      })
+      
+      
+    }    
+    else{
+
+      // console.log(uni.ESPECIALIDADES)
+      
+    }
+                                                     
   })
 
 }
