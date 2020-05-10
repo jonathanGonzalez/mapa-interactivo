@@ -26,16 +26,18 @@ const convertData = (datajson2) => {
 
         if (universidad.UNIVERSIDAD) {
             // console.log(universidad.UNIVERSIDAD    );
+          
+            universidad.ESPECIALIDADES =[...[universidad.ESPECIALIDADES],[universidad.LINK]]
             listaReal = [...listaReal, universidad]
-
+           
 
         } else {
-            
+
           
         }
-        
+         console.log(universidad);    
     })
 
-    console.log(listaReal)
+    // console.log(listaReal)
     // console.log(listaEspecialidades)
 }
