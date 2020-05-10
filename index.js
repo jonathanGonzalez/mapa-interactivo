@@ -15,7 +15,7 @@ const listarUniversidades = (datos) => {
     let listaUniversidades = datos 
     // console.log(listaUniversidades);
     listaUniversidades.map(universidad =>{
-        console.log(object);
+        console.log(universidad);
         if(universidad.UNIVERSIDAD){
             // console.log(universidad.UNIVERSIDAD);
             //Si existe la prompiedad UNIVERSIDAD  es una universidad sino existe es una especialiad 
