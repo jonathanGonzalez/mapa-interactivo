@@ -33,7 +33,7 @@ function initMap(universidades) {
 
    //inicia foreach
    universidades.forEach(function(universidad, i) {
-    console.log("%d: %s", i, universidad);
+    // console.log("%d: %s", i, universidad);
     coors = universidad.coordenadas;
     markers[i] = new google.maps.Marker({ position: coors,
                                           map: mapa,

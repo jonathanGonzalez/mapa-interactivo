@@ -17,27 +17,28 @@ getData2()
 const convertData = (datajson2) => {
     // console.log(datajson2)
     let listaUniversidades = datajson2
-    // for (const universidad of listaUniversidades) {
     //   // console.log(universidad.UNIVERSIDAD);
     // }
-    listaReal =[]
-    listaEspecialidades =[]
+   let listaReal =[]
+   let listaEspecialidades =[]
     listaUniversidades.map(universidad => {
 
         if (universidad.UNIVERSIDAD) {
             // console.log(universidad.UNIVERSIDAD    );
           
-            universidad.ESPECIALIDADES =[...[universidad.ESPECIALIDADES],[universidad.LINK]]
+            universidad.ESPECIALIDADES =[...[{"nombre":universidad.ESPECIALIDADES}],{"enlace":universidad.LINK}]
+            
             listaReal = [...listaReal, universidad]
            
 
         } else {
-
-          
+                
+            
         }
-         console.log(universidad);    
+        //  console.log( listaReal);    
     })
 
-    // console.log(listaReal)
+
+    console.log(listaReal)
     // console.log(listaEspecialidades)
 }
