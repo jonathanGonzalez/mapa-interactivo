@@ -103,9 +103,6 @@ function initMap(universidades) {
   });
 }
 
-
-
-
 function verUniversidad(id_universidad) {
   //console.log("----- id_universidad", id_universidad);
   var elmnt = document.getElementById("awards");
@@ -115,6 +112,7 @@ function verUniversidad(id_universidad) {
     .then(response => response.json())
     .then(data => {
       datajson = data;
+
       universidadSeleccionada = obtenerUniversidad(datajson, id_universidad);
 
       var logoapp = document.getElementById("logoapp");
@@ -134,77 +132,68 @@ function verUniversidad(id_universidad) {
       ciudad2.innerHTML = universidadSeleccionada.CIUDAD;
       telefono2.innerHTML = universidadSeleccionada.TELEFONO;
       direccion2.innerHTML = universidadSeleccionada.DIRECCION;
-      // email2.innerHTML = universidadSeleccionada.EMAIL;
+      email2.innerHTML = universidadSeleccionada.EMAIL;
 
 
       naturaleza.innerHTML = universidadSeleccionada.naturaleza;
       convocatorias.innerHTML = universidadSeleccionada.convocatorias;
-      //especializaciones.innerHTML = "";
+      especializaciones.innerHTML = ``;
+      
+      let lista = "";
 
-      //ciclo
-      lista = "";
-      console.log("--------- universidadSeleccionada", universidadSeleccionada)
-      universidadSeleccionada.ESPECIALIDADES.forEach(function (especialidad, i) {
+
+
+      // console.log("--------- universidadSeleccionada", universidadSeleccionada)
+      universidadSeleccionada.ESPECIALIDADES.forEach(function (especialidades, i){
+        console.log(especialidades);
         lista = `${lista}
         <div class='col-lg-7 col-md-12 col-sm-12 pl-0'>
-          <a target='_blank' href=${especialidad.enlace}>
+          <a target='_blank' href=${universidadSeleccionada.LINK[i]}>
             <i class='fa-li fa fa-graduation-cap text-secundary'>
-            </i>${especialidad.nombre}
+            </i>${especialidades}
           </a>
         </div>`;
       });
-      especializaciones.innerHTML = lista;
-      //$("#especialidades").append(lista);
+     
+
+      especializaciones.innerHTML = lista
+
+
+
+
+
     });
   //window.scrollTo(0, 600);
 
 }
 
 function obtenerUniversidad(universidades, id_universidad) {
-  //console.log("--------- universidades", universidades)
-  let especialidades = [];
-  universidades.forEach(function (universidad, i) {    
-    //console.log("ciclo" + i);
-    if(id_universidad === i) 
-    {
-      //alert(universidad.UNIVERSIDAD)
-      nombre_u= universidad.UNIVERSIDAD
-      //console.log(universidad);            
-      //universidadSeleccionada = universidad;
-    }
-    console.log("------ nombre_u", nombre_u);
-    if(nombre_u !== 'undefined')
-    {
-      if(universidad.UNIVERSIDAD === nombre_u)
-      {
-        especialidad = 
-        {
-          "nombre": universidad.ESPECIALIDADES,
-          "enlace": universidad.LINK
-        }
-        especialidades.push(especialidad);      
-      }
-    }
-      
-    
-  });
+  listaUniversidades = universidades
+  // console.log(id_universidad);
+  let ESPECIALIDADES = []
+  let LINK = []
+  let listafiltrada =  listaUniversidades.filter(universidad => universidad.UNIVERSIDAD === universidades[id_universidad].UNIVERSIDAD).forEach(universidad => {
+    LINK = [...LINK,universidad.LINK ]
+    ESPECIALIDADES = [...ESPECIALIDADES,universidad.ESPECIALIDADES ]
+  })
+   
 
-  universidadSeleccionada = 
-  [{
-    "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
-    "NATURALEZA": "publica",
-    "CIUDAD": "Bogotá D.C.",
-    "ESPECIALIDADES": especialidades,
-    "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/anestesiologia-reanimacion",
-    "CONVOCATORIAS": "Semestrales/Anuales",
-    "TELEFONO": "3333333333",
-    "IMAGEN": "https://cwti.com.co/wp-content/uploads/2019/11/Logo-h-degrade-1.png",
-    "VALOR-INSCRIPCION": "60000",
-    "VALOR-POR-SEMESTRE": "500000",
-    "DIRECCION": "ASDFASDFASD",
-    "LAT": "6.638136",
-    "LNG": "-74.084034"
-  }]
-  //console.log(universidadSeleccionada)
-  return universidadSeleccionada;//objeto
+  let universidadSelcionada = { 
+    "UNIVERSIDAD": universidades[id_universidad].UNIVERSIDAD,
+    "NATURALEZA": universidades[id_universidad].NATURALEZA,
+    "CIUDAD": universidades[id_universidad].CIUDAD,
+    "ESPECIALIDADES": ESPECIALIDADES,
+    "LINK": LINK,
+    "CONVOCATORIAS": universidades[id_universidad].CONVOCATORIAS,
+    "TELEFONO": universidades[id_universidad].TELEFONO,
+    "IMAGEN": universidades[id_universidad].IMAGEN,
+    "DIRECCION": universidades[id_universidad].DIRECCION,
+    "LAT": universidades[id_universidad].LAT,
+    "LNG": universidades[id_universidad].LNG,
+
+  }
+
+    // console.log(universidadSelcionada);
+ 
+    return  universidadSelcionada
 }
