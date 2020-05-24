@@ -126,8 +126,8 @@ function verUniversidad(id_universidad) {
 
       logoapp.src = universidadSeleccionada.IMAGEN;
       logoapp2.src = universidadSeleccionada.IMAGEN;
-      nombre.innerHTML = universidadSeleccionada.NOMBRE;
-      nombre2.innerHTML = universidadSeleccionada.NOMBRE;
+      nombre.innerHTML = universidadSeleccionada.UNIVERSIDAD;
+      nombre2.innerHTML = universidadSeleccionada.UNIVERSIDAD;
       ciudad.innerHTML = universidadSeleccionada.CIUDAD;
       ciudad2.innerHTML = universidadSeleccionada.CIUDAD;
       telefono2.innerHTML = universidadSeleccionada.TELEFONO;
@@ -135,8 +135,8 @@ function verUniversidad(id_universidad) {
       email2.innerHTML = universidadSeleccionada.EMAIL;
 
 
-      naturaleza.innerHTML = universidadSeleccionada.naturaleza;
-      convocatorias.innerHTML = universidadSeleccionada.convocatorias;
+      naturaleza.innerHTML = universidadSeleccionada.NATURALEZA;
+      convocatorias.innerHTML = universidadSeleccionada.CONVOCATORIAS;
       especializaciones.innerHTML = ``;
       
       let lista = "";
