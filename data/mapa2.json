@@ -1,0 +1,4130 @@
+[
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología y Reanimación",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/anestesiologia-reanimacion",
+            "CONVOCATORIAS": "Semestrales/Anuales",
+            "TELEFONO": "3333333333",
+            "IMAGEN": "https://cwti.com.co/wp-content/uploads/2019/11/Logo-h-degrade-1.png",
+            "VALOR-INSCRIPCION": "60000",
+            "VALOR-POR-SEMESTRE": "500000",
+            "DIRECCION": "ASDFASDFASD",
+            "LAT": "6.638136",
+            "LNG": "-74.084034"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cirugia-general",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Pediatríca ",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cirugia-pediatrica",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Plástica",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cirugia-plastica",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cuidado Intensivo Pediatríco",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/cuidado-intensivo-pediatrico",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/dermatologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Endocrinología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/endocrinologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Gastroenterología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/gastroenterologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Geriatría",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/geriatria",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Hematología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/hematologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Infectología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/infectologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Aeroespacial",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-aeroespacial",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina del Deporte ",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-del-deporte",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Fisica y Rehabilitación",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-fisica-rehabilitacion",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Forense",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-forense",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Interna ",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/medicina-interna",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neumología Clínica ",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/neumologia-clinica",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurocirugia",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/neurocirugia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurología clínica",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/neurologia-clinica",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neuropediatría",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/neuropediatria",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Obstetricía y Ginecología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/obstetricia-ginecologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/oftalmologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oncohematología Pediátrica",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/oncohematologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/ortopedia-traumatologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Otorrinolaringología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/otorrinolaringologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Patología Anatomica y clínica",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/patologia-anatomica-clinica",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/pediatria",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Perinatología y Neonatología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/perinatologia-neonatologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/psiquiatria",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/radiologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Radiología Pediatríca",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/radiologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Reumatología",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/reumatologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Nacional de Colombia-UN - PUBLICA",
+            "NATURALEZA": "publica",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Urología ",
+            "LINK": "http://medicina.bogota.unal.edu.co/formacion/especialidades-medicas/urologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/anestesiologia",
+            "CONVOCATORIAS": "Anuales",
+            "LAT": "4.638136",
+            "LNG": "-74.084034"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cardiología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cardiologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Cardiovascular",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-cardiovascular",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Cabeza y Cuello",
+            "LINK": "http://www.umng.edu.co/cirugia-de-cabeza-y-cuello",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Columna",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-columna-pelvis-acetabulo",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Mano y Miembro Superior",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-mano",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Gastrointestinal y Endoscopia Digestiva",
+            "LINK": "http://www.umng.edu.co/cirugia-gastrointestinal-y-endoscopia-digestiva",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-general",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Oncológica",
+            "LINK": "http://www.umng.edu.co/cirugia-oncologica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Oral y Maxilofacial",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-oral-maxilofacial",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Pediatríca ",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-pediatrica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Plástica Oncológica",
+            "LINK": "http://www.umng.edu.co/cirgugia-plastica-oncologica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Plástica, Reconstructiva y Estética",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaiones-medico-quirurgicas/cirugia-plastica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Pie y Tobillo",
+            "LINK": "http://www.umng.edu.co/cirugia-de-pie-y-tobillo",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Reconstructiva y del Reemplazo Articular de Cadera y de Rodilla",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-reconstructiva",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Vascular y Angiología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/cirugia-vascular",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Coloproctología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/coloproctologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Dermatología ",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/dermatologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Dermatología Oncológica",
+            "LINK": "http://www.umng.edu.co/dermatologia-oncologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Endocrinología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/endocrinologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Gastroenterología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/gastroenterologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ginecología y obstetricia ",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-ingenieria/posgrados/especializaciones-medico-quirurgicas/ginecologia-obstetricia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Glaucoma",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/glaucoma",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Hematología y Oncología Clinica",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/hematologia-oncologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Laringología y Vía Superior",
+            "LINK": "http://www.umng.edu.co/laringologia-y-via-superior",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Critica y Cuidado Intensivo",
+            "LINK": "http://www.umng.edu.co/medicina-critica-y-cuidad-intensivo",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina del Dolor y Cuidados Paliativos",
+            "LINK": "http://www.umng.edu.co/medicina-del-dolor-y-cuidados-paliativos",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina fisica y Rehabilitación",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/medicina-fisica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/medicina-interna",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Nefrología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/nefrologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neonatología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neonatologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neumología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neumologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurocirugía",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neurocirugia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neurologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurología Pediatríca",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/neurologia-pediatrica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/oftalmologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oncología Radioterapica",
+            "LINK": "http://www.umng.edu.co/oncologia-radioterapica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ortopedía Oncológica",
+            "LINK": "http://www.umng.edu.co/ortopedia-oncologica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ortopedía y Traumatología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/ortopedia-traumatologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Otología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/otologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Otorrinolaringología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/otorrinolaringologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Patología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/patologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/pediatria",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/psiquiatria",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+            "LINK": "http://www.umng.edu.co/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/radiologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Rehabilitación Oncológica",
+            "LINK": "http://www.umng.edu.co/rehabilitcion-oncologica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Urología",
+            "LINK": "http://www.umng.edu.co/web/guest/programas-academicos/facultad-medicina/posgrados/especializaciones-medico-quirurgicas/urologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Militar Nueva Granada-UMNG",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Urología Oncológica",
+            "LINK": "http://www.umng.edu.co/urologia-oncologica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesia y Medicina Perioperatoria",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/anestesia-y-medicina-perioperatoria",
+            "CONVOCATORIAS": "Semestrales",
+            "LAT": "4.638136",
+            "LNG": "-74.084034"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/cirugia-general",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Gastroenterología y Endoscopia Digestiva",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/gastroenterologia-y-endoscopia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ginecología y Endoscopia",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Critíca y Cuidado Intensivo",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/medicina-critica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Materno Fetal",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/medicina-materno-fetal",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Nuclear",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/medicina-nuclear",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oftalmologia",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/oftalmologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ortopedía y Traumatología",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/ortopedia-y-traumatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Pediatría ",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/pediatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría y Salud Mental",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/psiquiatria-y-salud-mental",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/radiologia-e-imagenes-diagnosticas",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Salud Reproductiva Humana",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/salud-reproductiva-humana",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Urología ",
+            "LINK": "http://www.unisanitas.edu.co/programas-academicos/posgrado/urologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Otorrinolaringología",
+            "LINK": "http://www.unisanitas.edu.co/otorrinolaringologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Sanitas-UNISANITAS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://www.unisanitas.edu.co/medicina-interna",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología y Reanimación",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-anestesiologia-y-reanimacion",
+            "CONVOCATORIAS": "Semestrales",
+            "LAT": "4.638136",
+            "LNG": "-74.084034"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía General ",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-cirugia-general/cirugia-general",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Cardio Vascular",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-cirugia-general/cirugia-cardiovascular",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Cabeza y Cuello",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-cirugia-general/cirugia-cabeza-cuello",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Mama y Tejidos Blandos ",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-cirugia-general/cirugia-cardiovascular-mama-tejidos-blandos",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Gastroenterología y Endoscopia Digestiva",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/gastroenterologia-y-endoscopia-digestiva",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Plastica Reconstructiva y Estetica",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/cirugia-plastica-reconstructiva-y-estetica/presentacion-cirugia-plastica-reconstructiva-y-estetica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Craneofacial",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/cirugia-plastica-reconstructiva-y-estetica/presentacion-cirugia-craneofacial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Mano",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/cirugia-plastica-reconstructiva-y-estetica/cirugia-de-la-mano",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Endoscopia Ginecologíca ",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/cirugia-endoscopica-ginecologica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ginecología Oncologíca",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/ginecologia-oncologica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ginecología y Obtetricía ",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Mastología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/mastologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Materno Fetal",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ginecologia-y-obstetricia/medicina-materno-fetal",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Hemodinamia y Cardología Intervencionista",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/hemodinamia-y-cardiologia-intervencionista",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Critíca y Cuidado Intensivo",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-critica-y-cuidado-intensivo",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina de la Actividad Fisica y el Deporte",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-de-la-actividad-fisica-y-del-deporte",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina de Urgencias",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-de-urgencias",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina del Dolor y Cuidados Paliativos",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-del-dolor-y-cuidados-paliativos",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Familiar",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/medicina-familiar",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cardiología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/cardiologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Endocrinología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/Endocrinologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Gastroenterología y Endoscopia Digestiva",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/gastroenterologia-endoscopia-digestiva",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Hematología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/hematologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/medicina-interna",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Nuclear",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/medicina-nuclear",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Nefrología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/nefrologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Reumatología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-medicina-interna/Reumatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurocirugía",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/neurocirugia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/neurologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/oftalmologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Maxilofacial",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-otorrinolaringologia/cirugia-maxilofacial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Otología y Otoneurología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-otorrinolaringologia/otologia-y-otoneurologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Otorrinolaringología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-otorrinolaringologia/otorrinolaringologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Mano",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ortopedia-y-traumatologia/cirugia-mano",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Rodilla",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ortopedia-y-traumatologia/cirugia-rodilla",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ortopedía y Traumatología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-ortopedia-y-traumatologia/ortopedia-traumatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Patología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/patologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neonatología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-pediatria-y-neonatologia/neonatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/sub-pediatria-y-neonatologia/pediatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/radiologia-e-imagenes-diagnosticas",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Toxicología Clinica",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/toxicologia-clinica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Urología",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/urologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/Psiquiatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Fundacion Universitaria Ciencias de la Salud-FUCS",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Pediatríca",
+            "LINK": "https://www.fucsalud.edu.co/posgrado/Cirugia-Pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Electrofisiología Clínica, Estimulación y Arritmias Cardiacas",
+            "LINK": "https://www.javeriana.edu.co/especializacion-electrofisiologia-estimulacion-arritmias-cardiacas",
+            "CONVOCATORIAS": "Semestrales",
+            "LAT": "5.638136",
+            "LNG": "-74.084034"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Mano",
+            "LINK": "https://www.javeriana.edu.co/especializacion-cirugia-mano/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Hemodinamia y Cardiológia Intervencionista",
+            "LINK": "https://www.javeriana.edu.co/especializacion-hemodinamia-y-cardiologia-intervencionista",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Critíca y Cuidados Intensivos ",
+            "LINK": "https://www.javeriana.edu.co/especializacion-medicina-critica-y-cuidados-intensivos",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Familiar ",
+            "LINK": "https://www.javeriana.edu.co/especializacion-medicina-familiar",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Endocrinología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-endocrinologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neumología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-neumologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cardiología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-cardiologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Cardio Vascular",
+            "LINK": "https://www.javeriana.edu.co/especializacion-cirugia-cardio-vascular",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Plastica",
+            "LINK": "https://www.javeriana.edu.co/especializacion-cirugia-plastica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-dermatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Gastroenterología y Endoscopia Digestiva",
+            "LINK": "https://www.javeriana.edu.co/especializacion-gastroenterologia-y-endoscopia-digestiva",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Geriatría ",
+            "LINK": "https://www.javeriana.edu.co/especializacion-geriatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Genetica Medica ",
+            "LINK": "https://www.javeriana.edu.co/especializacion-genetica-medica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina de Urgencias",
+            "LINK": "https://www.javeriana.edu.co/especializacion-medicina-de-urgencias",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Nefrología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-nefrologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-anestesiologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Patología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-patologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "https://www.javeriana.edu.co/especializacion-cirugia-general",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://www.javeriana.edu.co/especializacion-pediatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría de Enlace",
+            "LINK": "https://www.javeriana.edu.co/especializacion-psiquiatria-de-enlace",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría General",
+            "LINK": "https://www.javeriana.edu.co/especializacion-psiquiatria-general",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Radiología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-radiologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ginecología y Obtetricia",
+            "LINK": "https://www.javeriana.edu.co/especializacion-ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Interna ",
+            "LINK": "https://www.javeriana.edu.co/especializacion-en-medicina-interna",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurocitrugía",
+            "LINK": "https://www.javeriana.edu.co/especializacion-neurocirugia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-neurologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-oftalmologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ortopedia infantil",
+            "LINK": "https://www.javeriana.edu.co/especializacion-ortopedia-infantil",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-ortopedia-y-traumatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Otorrinolaringología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-otorrinolaringologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría de Niños y Adolescentes ",
+            "LINK": "https://www.javeriana.edu.co/especializacion-psiquiatria-de-ninos-y-adolescentes",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Pontificia Universidad Javeriana ",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Urología",
+            "LINK": "https://www.javeriana.edu.co/especializacion-urologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Urología ",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Urologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Retina y Vitreo",
+            "LINK": "https://www.urosario.edu.co/Admisiones/Posgrado/Especializaciones-Medico-Quirurgicas/Especializacion-en-Retina-y-Vitreo/nuevo/colombia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Materno Fetal",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Medicina-Materno-Fetal/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Coloproctología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Coloproctologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cardiología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cardiologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Infectología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Infectologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Medicina-Interna/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Nefrología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Nefrologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Neurologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Radiología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Radiologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina de Emergencias",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Medicina-de-Emergencias/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesia Cardiotoracica ",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesia-Cardiotoracica/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología - FCI",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesiologia-FCI/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología - HOK",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesiologia-HOK/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Cardiovascular",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cirugia-Cardiovascular/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cirugia-General/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurocirugía",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Neurocirugia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesia Cardiotorácica",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesia-Cardiotoracica/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología - FCI",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesiologia-FCI/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología - HOK",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Anestesiologia-HOK/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de mano",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cirugia-de-Mano/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Oftalmologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Mastología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Mastologia/Perfiles/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Critica y Cuidado Intensivo",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Medicina-Critica-y-Cuidado-Intensivo/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ortopedia y Traumatología FSFB",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Ortopedia-y-Traumatologia-FSFB/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": " Ortopedia y Traumatología HOK",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Ortopedia-y-Traumatologia-HOK/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Otorrino - laringología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Otorrino-laringologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ginecología y Obstetricia ",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Programas/Especializaciones/Especializaciones-Medico-Quirurgicas/Programas-Departamento-de-Ciencias-Reproductivas/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cuidado Intensivo Pediatríco",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Cuidado-Intensivo-Pediatrico/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neonatología",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Neonatologia/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Rosario",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Pedriatría",
+            "LINK": "https://www.urosario.edu.co/Escuela-de-Medicina/Especializacion-en-Pediatria/Inicio/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cuidado Intensivo Pediátrico ",
+            "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-cuidado-intensivo-pediatrico/especializacionencuidadointensivopediatrico/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Crítica y Cuidado Intensivo ",
+            "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-medicina-critica-y-cuidado-intensivo/especializacionenmedicinacriticaycuidadointensivo/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Familiar y Comunitaria",
+            "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-medicina-familiar-y-comunitaria/especializacionenmedicinafamiliarycomunitaria/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neumología",
+            "LINK": "https://www.unisabana.edu.co/especializacionenneumologia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Electrofisiología Cardiovascular",
+            "LINK": "https://www.unisabana.edu.co/especializacionenelectrofisiologiacardiovascular/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://www.unisabana.edu.co/especializacionenmedicinainterna/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Reumatología ",
+            "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-neurologia/especializacionenneurologia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "https://www.unisabana.edu.co/especializacionencirugiageneral/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurología",
+            "LINK": "https://www.unisabana.edu.co/especializacionenreumatologia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-oftalmologia/especializacionenoftalmologia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología y Medicina Perioperatoria",
+            "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-anestesiologia-y-medicina-perioperatoria/especializacionenanestesiologiaymedicinaperioperatoria/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ginecología y Obstetricia ",
+            "LINK": "https://www.unisabana.edu.co/especializacionenginecologiayobstetricia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Física y Rehabilitación ",
+            "LINK": "https://www.unisabana.edu.co/especializacionenmedicinafisicayrehabilitacion/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://www.unisabana.edu.co/especializacionenpediatria/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas ",
+            "LINK": "https://www.unisabana.edu.co/especializacionenradiologiaeimagenesdiagnosticas/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Gastroenterología",
+            "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-gastroenterologia/especializacionengastroenterologia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina del Dolor y Cuidados Paliativos ",
+            "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-medicina-del-dolor-y-cuidados-paliativos/nuestro-programa/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de la Sabana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Farmacología Clínica ",
+            "LINK": "https://www.unisabana.edu.co/programas/posgrados/facultad-de-medicina/especializacion-en-farmacologia-clinica/especializacionenfarmacologiaclinica/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de los Andes",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://medicina.uniandes.edu.co/index.php/es/?option=com_content&view=article&id=430",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Juan N. Corpas",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Otología y Neurotología",
+            "LINK": "http://www.juanncorpas.edu.co/oferta-academica/posgrado/posgrados-medico-quirurgicos/otologia-y-neurotologia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Juan N. Corpas",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Familiar Integral",
+            "LINK": "http://www.juanncorpas.edu.co/oferta-academica/posgrado/posgrados-medico-quirurgicos/medicina-familiar-integral/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Juan N. Corpas",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Terapéuticas Alternativas y Farmacología Vegetal",
+            "LINK": "http://www.juanncorpas.edu.co/oferta-academica/posgrado/posgrados-medico-quirurgicos/terapeuticas-alternativas-y-farmacologia-vegetal/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Juan N. Corpas",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://www.juanncorpas.edu.co/oferta-academica/posgrado/posgrados-medico-quirurgicos/medicina-interna/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesia Cardiovascular y Torácica",
+            "LINK": "https://www.unbosque.edu.co/especializacion/anestesia-cardiovascular-y-toracica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología FSFB",
+            "LINK": "https://www.unbosque.edu.co/especializacion/anestesiologia-fsfb",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Anestesiología HSB",
+            "LINK": "https://www.unbosque.edu.co/especializacion/anestesiologia-hsb",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cardiología Adultos",
+            "LINK": "https://www.unbosque.edu.co/especializacion/cardiologia-adultos",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cardiología Pediatríca",
+            "LINK": "https://www.unbosque.edu.co/especializacion/cardiologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía de Mano",
+            "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-de-mano",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía del Torax",
+            "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-del-torax",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-general",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Plástica Reconstructiva y Estética",
+            "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-plastica-reconstructiva-y-estetica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Cirugía Vascular y Angiología",
+            "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-vascular-y-angiologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "https://www.unbosque.edu.co/especializacion/dermatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Enfermería Neonatal",
+            "LINK": "https://www.unbosque.edu.co/especializacion/enfermeria-neonatal",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Gastroenterología Pediátrica",
+            "LINK": "https://www.unbosque.edu.co/especializacion/gastroenterologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ginecología y Obstetricia",
+            "LINK": "https://www.unbosque.edu.co/especializacion/ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Infectología Pediátrica",
+            "LINK": "https://www.unbosque.edu.co/especializacion/infectologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Crítica y Cuidado Intensivo",
+            "LINK": "https://www.unbosque.edu.co/especializacion/medicina-critica-cuidado-intensivo",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Crítica y Cuidado Intensivo Pediátrico",
+            "LINK": "https://www.unbosque.edu.co/especializacion/medicina-critica-y-cuidado-intensivo-pediatrico",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina del Deporte",
+            "LINK": "https://www.unbosque.edu.co/especializacion/medicina-del-deporte",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": " Medicina del Dolor y Cuidados Paliativos",
+            "LINK": "https://www.unbosque.edu.co/especializacion/medicina-del-dolor-y-cuidados-paliativos",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Familiar",
+            "LINK": "https://www.unbosque.edu.co/especializacion/medicina-familiar",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Física y Rehabilitación",
+            "LINK": "https://www.unbosque.edu.co/especializacion/medicina-fisica-y-rehabilitacion",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": " Medicina Interna FSFB",
+            "LINK": "https://www.unbosque.edu.co/especializacion/medicina-interna-fsfb",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Interna HSC",
+            "LINK": "https://www.unbosque.edu.co/especializacion/medicina-interna-hsc",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Medicina Materno-Fetal",
+            "LINK": "https://www.unbosque.edu.co/especializacion/medicina-materno-fetal",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Nefrología Pediátrica",
+            "LINK": "https://www.unbosque.edu.co/especializacion/nefrologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neonatología",
+            "LINK": "https://www.unbosque.edu.co/especializacion/neonatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neumología",
+            "LINK": "https://www.unbosque.edu.co/especializacion/neumologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neumología Pediatríca",
+            "LINK": "https://www.unbosque.edu.co/especializacion/neumologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurocirugía",
+            "LINK": "https://www.unbosque.edu.co/especializacion/neurocirugia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Neurología",
+            "LINK": "https://www.unbosque.edu.co/especializacion/neurologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "https://www.unbosque.edu.co/especializacion/oftalmologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": " Oncología Clínica",
+            "LINK": "https://www.unbosque.edu.co/especializacion/oncologia-clinica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "https://www.unbosque.edu.co/especializacion/ortopedia-y-traumatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://www.unbosque.edu.co/especializacion/pediatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría de Enlace e Interconsultas",
+            "LINK": "https://www.unbosque.edu.co/especializacion/psiquiatria-de-enlace-e-interconsultas",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría Infantil y del Adolescente",
+            "LINK": "https://www.unbosque.edu.co/especializacion/psiquiatria-infantil-y-del-adolescente",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas",
+            "LINK": "https://www.unbosque.edu.co/especializacion/radiologia-e-imagenes-diagnosticas",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Reumatología Pediátrica",
+            "LINK": "https://www.unbosque.edu.co/especializacion/reumatologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Salud Familiar y Comunitaria",
+            "LINK": "https://www.unbosque.edu.co/especializacion/salud-familiar-y-comunitaria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Urología",
+            "LINK": "https://www.unbosque.edu.co/especializacion/urologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Odontología Pediátrica",
+            "LINK": "https://www.unbosque.edu.co/especializacion/odontologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": " Cirugía Oral y Maxilofacial",
+            "LINK": "https://www.unbosque.edu.co/especializacion/cirugia-oral-y-maxilofacial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Endodoncia",
+            "LINK": "https://www.unbosque.edu.co/especializacion/endodoncia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Bosque",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bogotá D.C.",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "https://www.unbosque.edu.co/especializacion/psiquiatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Anestesia Cardiovascular y Torácica",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/anestesia-cardiovascular-y-toracica/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Anestesiología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/anestesiologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cardiología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cardiologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cardiología Intervencionista y Hemodinamica",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cardiologia-intervencionista-y-hemodinamica/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugía Cardiovascular",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-cardiovascular/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-general/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugía Laparoscopica Avanzada",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-laparoscopica-avanzada/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugía Maxilofacial",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/especializacion-en-cirugia-maxilofacial/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugía Plastica Facial",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-plastica-facial/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugía Plástica, Reconstructiva y Estética",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cirugia-plastica-reconstructiva-y-estetica/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cuidado Intensivo Pediátrico",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/cuidado-intensivo-pediatrico/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/dermatologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Dermatopatología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/dermatopatologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Ecocardiografía",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/ecocardiografia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Electrofisiología Cardíaca",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/electrofisiologia-cardiaca/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Endodoncia",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/especializacion-en-endodoncia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Gastroenterología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/gastroenterologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Gineco - Obstetricia",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/ginecologia-y-obstetricia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Infectología pediátrica",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/infectologia-pediatrica/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Mastología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/mastologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina Crítica y Cuidado Intensivo",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/medicina-critica-y-cuidado-intensivo/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina de Urgencias",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/medicina-de-urgencias/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/medicina-interna/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Neonatología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/neonatologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": " Neurología clínica",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/neurologia-clinica/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/oftalmologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/pediatria/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/psiquiatria/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Radiología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/radiologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Urología",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/urologia/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad CES",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Perfusión – Circulación Extracorpórea",
+            "LINK": "https://www.ces.edu.co/programas/especializaciones-clinicas/especializacion-perfusion-circulacion-extracorporea/",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Alergología Clínica",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/8a0d5e72-5a39-4b0d-b987-6945c2df719e/Documento+Maestro+Alergologia.pdf?MOD=AJPERES&CVID=lVOMtAl",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Anestesiología y Reanimación",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/2f593fc0-4e75-4305-8e7d-875b0fd2e6b6/Documento+Maestro+Anestesiolog%C3%ADa+y+Reanimaci%C3%B3n+2012.pdf?MOD=AJPERES&CVID=lVOMGaO",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugia General",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/cd9d17c0-7225-4907-a2cb-1631f2153b68/Documento+Maestro+Cirug%C3%ADa+General+2012.pdf?MOD=AJPERES&CVID=lVONc1p",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugía Plástica, Maxilofacial y de la Mano",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/ef9a241c-daf6-4d32-ad8b-749ee3f331e1/Documento+Maestro+Cirug%C3%ADa+Pl%C3%A1stica+2012.pdf?MOD=AJPERES&CVID=lVONlwN",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/efdd7afb-62c2-496b-afb5-085508b0c50d/Documento+Maestro+Dermatolog%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVONDd-",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Gineco - Obstetricia",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/c2198521-cdc1-4459-8130-a96350923991/Documento+Maestro+Ginecolog%C3%ADa+y+Obstetricia.pdf?MOD=AJPERES&CVID=lVOOgEP",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina Aplicada a la Actividad Fisica y del Deporte",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/4dfdb706-0aa7-451f-ba35-2348b3972ca4/Documento+Maestro+Medicina+Aplicada+a+la+Actividad+F%C3%ADsica+y+al+Deporte+2012.pdf?MOD=AJPERES&CVID=lVOOX09",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina de Urgencias",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/4dfdb706-0aa7-451f-ba35-2348b3972ca4/Documento+Maestro+Medicina+Aplicada+a+la+Actividad+F%C3%ADsica+y+al+Deporte+2012.pdf?MOD=AJPERES&CVID=lVOOX09",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina Fisica y Rehabilitación",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/c5c63bc0-9b5b-45f5-bede-3cde16abd2cb/Documento+Maestro+Medicina+Fisica+y+Rehabilitaci%C3%B3n.pdf?MOD=AJPERES&CVID=lVOPxhp",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina Interna ",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/2f70860c-5cd9-4140-9645-746a74e5f12b/Documento+Maestro+Medicina+Interna+2012.pdf?MOD=AJPERES&CVID=lVOPFP9",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Neurocirugía",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/8992ef8e-3a44-4082-901c-f5644f827eb0/Documento+Maestro+Neurocirug%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVOQyk.",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Neurología",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/1ceb7aa6-f5b7-4b89-9fbd-92c6cde9e4e4/Documento+Maestro+Neurolog%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVOQJ2O",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Oftamología",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/f0fc9bc2-b0d9-4dcb-a1f5-e5bdd9941564/Documento+Maestro+Oftalmolog%C3%ADa+2012+%281%29.pdf?MOD=AJPERES&CVID=lVORhXW",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/72ce0f95-4d06-46bd-92d5-f8e0aac36f80/Documento+Maestro+Ortopedia+y+Traumatolog%C3%ADa.pdf?MOD=AJPERES&CVID=lVORu8B",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Otorrinolarigología y Cirugía de Cabeza y Cuello",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/4da20a51-61b4-44f2-814e-148748d582a1/Documento+Maestro+Otorrinolaringolog%C3%ADa+y+Cirug%C3%ADa+Cabeza+y+Cuello+2012.pdf?MOD=AJPERES&CVID=lVORE4Z",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Patología ",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/91919a76-21c3-44c3-a7ba-28fc2c5f8824/Documento+Maestro+Patologia+2012.pdf?MOD=AJPERES&CVID=lVOROY4",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/a37a6dac-d7b7-4e2c-8d04-8baec0cbbca0/Documento+Maestro+Pediatria+2012.pdf?MOD=AJPERES&CVID=lVORYm1",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/f2dfa8b8-375e-45ff-a719-c8f7b597a9ee/Documento+Maestro+Psiquiatr%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVOSnxi",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Radiología e Imágenes Diágnosticas",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/7f1b6715-3a05-46d4-a73a-2fecd924ac84/Documento+Maestro+Radiologia+2012.pdf?MOD=AJPERES&CVID=lVOSF3m",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Toxicología Clínica ",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/55535d64-32a6-44ef-9738-213a982055af/Documento+Maestro+Toxicolog%C3%ADa+Cl%C3%ADnica+2012.pdf?MOD=AJPERES&CVID=lVOTjwF",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Antioquia",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Urología",
+            "LINK": "http://www.udea.edu.co/wps/wcm/connect/udea/8570e836-1844-4d59-981f-3d7200a207d3/Documento+Maestro+Urolog%C3%ADa+2012.pdf?MOD=AJPERES&CVID=lVOTsr7",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Anestesia Cardiovascular",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-anestesia-cardiovascular-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Anestesiología",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-anestesiologia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cardiología",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cardiologia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cardiología Intervencionista y Hemodinamica",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cardiologia-intervencionista-hemodinamica-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cardilogía Pediátrica",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cardiologia-pediatrica-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugía Cardiovascular",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cirugia-cardiovascular-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-cirugia-general-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-dermatologia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Ecocardiografía",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-ecocardiografia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Endocrinología diabetes y Metabolistmo del Aldulto",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-endocrinologia-diabetes-metabolismo-adulto-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Enfermedades infeccione",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-enfermedades-infecciosas-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Gineco - Obstetricia",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-ginecologia-obstetricia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina Crítica y Cuidados Intensivos",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-medicina-critica-cuidados-intensivos-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-medicina-interna-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina Materno Fetal",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-medicina-materno-fetal-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Medicina de la Actividad Fisica y del Deporte",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-medicina-actividad-fisica-deporte-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Nefrología ",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-nefrologia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Neonatología",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-neonatologia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Oftamología",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-oftalmologia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Ortopedia y Traumatologia ",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-ortopedia-traumatologia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Ortopedia y Traumatologia Pediatríca",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-ortopedia-traumatologia-pediatrica-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Pediatria.",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-pediatria-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Psiaquiatría",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-psiquiatria-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Psiquiatrica de Enlace ",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-psiquiatria-enlace-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Radiología e imágenes Diágnosticas ",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-radiologia-imagenes-diagnosticas-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Reumatología",
+            "LINK": "https://www.upb.edu.co/es/postgrados/especializacion-reumatologia-medellin",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Pontifica Bolivariana\n\n",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Corporación Universitaria Remington",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Pediatría ",
+            "LINK": "https://www.uniremington.edu.co/facultades/facultad-de-ciencias-de-la-salud/pediatria/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Medellín",
+            "ESPECIALIDADES": "Gineco - Obstetricia",
+            "LINK": "https://www.uniremington.edu.co/facultades/facultad-de-ciencias-de-la-salud/gineco-obstetricia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Anatomía Patologica y Patología Clínica",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-anatomia-patologica-y-patologia-clinica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Anestesiología y Reanimación",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-anestesiologia-y-reanimacion",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Cirugía del Trauma y Emergencias",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-cirugia-de-trauma-y-emergencias",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-cirugia-general",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Cirugía Pediátrica ",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-cirugia-pediatrica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Cirugía Plástica,Estética, Maxilofacial y de la Mano",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-cirugia-plastica-estetica-maxilofacial-y-de-la-mano",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Dermatología y Cirugía Dermatógica",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-dermatologia-y-cirugia-dermatologica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Geriatría",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-geriatria",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Gineco-Obstetricia",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicna Crítica y Cuidados Intensivos",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-medicina-critica-y-cuidado-intensivo",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicina Familiar",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-medicina-familiar",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicina Fisica y Rehabilitación",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-medicina-fisica-y-rehabilitacion",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicna Interna",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-medicina-interna",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Nefrología",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-nefrologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Neurocirugía",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-neurocirugia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-oftalmologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-ortopedia-y-traumatologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Otorrinolaringología",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-otorrinolaringologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/especializacion-en-pediatria",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/2015-09-10-13-33-40",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Radiodiagnóstico",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/2015-09-10-13-34-35",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Valle-UNIVALLE\n\n",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Urología",
+            "LINK": "http://salud.univalle.edu.co/posgrados/especializaciones-clinicas/2015-09-10-13-34-51",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Ginecología y Obstetricia ",
+            "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-medicina-interna",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Pediatría ",
+            "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-pediatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Psiquiatria",
+            "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-psiquiatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "http://www.unilibrecali.edu.co/index.php/programas-academicos/posgrados/posgrado-esp-med/fac-ciencias-de-salud-medico/esp-en-dermatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Javeriana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Oftamología",
+            "LINK": "https://www.javerianacali.edu.co/programas/especializacion-en-oftalmologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Javeriana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicina de Urgencias",
+            "LINK": "https://www.javerianacali.edu.co/programas/especializacion-en-medicina-de-urgencias",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Javeriana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicina Familiar ",
+            "LINK": "https://www.javerianacali.edu.co/programas/especializacion-en-medicina-familiar",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Javeriana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicina Forence ",
+            "LINK": "https://www.javerianacali.edu.co/programas/especializacion-en-medicina-forense",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Dermatología ",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-dermatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-medicina-interna",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Raumatología",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-reumatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Hemato-Oncología ",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-hematologia-y-oncologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Cardiología Pediatrica ",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-cardiologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-radiologia-e-imagenes-diagnosticas",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Cirugia de Trasplantes y Orgaos Abdominales",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-cirugia-de-trasplantes-de-organos-abdominales",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Cardiología ",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-cardiologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Nefrología Pediátrica ",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Gineco-Obstetricia ",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Alergología",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-alergologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Cirugia de Cabeza y Cuello",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-cirugia-de-cabeza-y-cuello",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Medicina de Emergencias ",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-medicina-de-emergencia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Psiquiatría ",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-psiquiatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Anestesiología",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-anestesiologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-ortopedia-y-traumatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Neurología",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-neurologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Neurocirugía",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-genetica-medica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Nefrología Pediátrica ",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-nefrologia-pediatrica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Infectología",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-infectologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad ICESI",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cali",
+            "ESPECIALIDADES": "Genética Médica",
+            "LINK": "http://www.icesi.edu.co/facultad-ciencias-salud/facultad-de-ciencias-de-la-salud-posgrado/especializacion-en-genetica-medica",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Norte -UNINORTE",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Ergonomía",
+            "LINK": "https://www.uninorte.edu.co/web/especializacion-en-ergonomia/especializacion-en-ergonomia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Norte -UNINORTE",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://www.uninorte.edu.co/web/especializacion-en-medicina-interna",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Norte -UNINORTE",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Neonatología",
+            "LINK": "https://www.uninorte.edu.co/web/especializacion-en-neonatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Norte -UNINORTE",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "https://www.uninorte.edu.co/web/especializacion-en-oftalmologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Norte -UNINORTE",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://www.uninorte.edu.co/web/especializacion-en-pediatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Norte -UNINORTE",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "https://www.uninorte.edu.co/web/especializacion-en-psiquiatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Norte -UNINORTE",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas",
+            "LINK": "https://www.uninorte.edu.co/web/especializacion-en-radiologia-e-imagenes",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Metropolitana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Metropolitana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Anestesiología y Reanimación",
+            "LINK": "http://www.unimetro.edu.co/especializacion-en-anestesiologia-y-reanimacion/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Metropolitana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Ginecología y Obstetricia",
+            "LINK": "http://www.unimetro.edu.co/posgrado-en-ginecologia-y-obstetricia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Metropolitana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://www.unimetro.edu.co/postgrado-en-pediatria/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Metropolitana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnósticas",
+            "LINK": "http://www.unimetro.edu.co/especializacion-en-psicologia-clinica-2/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Metropolitana",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://www.unimetro.edu.co/cirugia-general-2/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-pediatria",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Ginecología y Obstetricia",
+            "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-ginecologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-cirugia-general",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-medicina-interna",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Libre",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "http://www.unilibrebaq.edu.co/unilibrebaq/index.php/programas-academicos/posgrado/fac-ciencias-de-salud/esp-en-ortopedia-y-traumatologia",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Medicina Crítica y Cuidados Intensivo",
+            "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-medicina-critica-y-cuidados-intensivos/32",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Neurología",
+            "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-neurologia/59",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-medicina-interna/60",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Cirugía Plástica, Reconstructuva y Estética",
+            "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-cirugia-plastica-reconstructiva-y-estetica/61",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Ginecología y Obstetricia",
+            "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-ginecologia-y-obstetricia/62",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-pediatria/63",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-psiquiatria/64",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Simóm Bolivar-UNISIMON",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Barranquilla",
+            "ESPECIALIDADES": "Nefrología",
+            "LINK": "https://www.unisimon.edu.co/posgrados/especializacion-en-nefrologia/106",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-psiquiatria",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-ortopedia-y-traumatologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Patología",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-patologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Otorrinolaringología",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especialidad-en-otorrinolaringologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Neurocirugía",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-neurocirugia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Urología",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-urologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-radiologia-e-imagenes-diagnosticas",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-pediatria",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-medicina-interna",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Anestesiología y Reanimación",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-anestesiologia-y-reanimacion",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-cirugia-general",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Ginecología y Obstetricia",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Medicna Cr´tica y Cuidados Intensivos",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-medicina-critica-y-cuidados-intensivos",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Cartagena-UNICARTAGENA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "http://posgrados.unicartagena.edu.co/estudia-con-nosotros/especializaciones-medico-quirurgicas/especializacion-en-dermatologia",
+            "CONVOCATORIAS": "Semestrales/Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Sinú- UNISINU",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cartagena",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Sinú- UNISINU",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Gineco-Obstetricia",
+            "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-ginecologia-y-obstetricia-snies21447/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Sinú- UNISINU",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Anestesiología",
+            "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-en-anestesiologia-snies101840/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Sinú- UNISINU",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-medicina-interna-snies21456/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Sinú- UNISINU",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-en-oftalmologia-snies21446/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Sinú- UNISINU",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-pediatria-snies21448/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Sinú- UNISINU",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Cartagena",
+            "ESPECIALIDADES": "Cirugía Plástica, Estética y Reconstructiva",
+            "LINK": "https://www.unisinucartagena.edu.co/portfolio/esp-cirugia-plastica-estetica-y-reconstructiva-snies-103321/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+            "NATURALEZA": "Publica ",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Anestesiologia y reamnimacion ",
+            "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/anestesiologiaReanimacion/index.html",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+            "NATURALEZA": "Publica ",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionCirugiaGeneral/index.jsp?variable=263",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+            "NATURALEZA": "Publica ",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Cirugía plástica, reconstructiva y estética ",
+            "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/espCirugiaPlastica/index.jsp?variable=312",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+            "NATURALEZA": "Publica ",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Ginecologia y obstetricia ",
+            "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionGinecologiaObstetricia/index.jsp?variable=262",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+            "NATURALEZA": "Publica ",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionMedicinaInterna/index.jsp?variable=264",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+            "NATURALEZA": "Publica ",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionOftalmologia/index.jsp?variable=267",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+            "NATURALEZA": "Publica ",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionOrtopediaTraumatologia/index.jsp?variable=209",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+            "NATURALEZA": "Publica ",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Patología",
+            "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionPatologia/index.jsp?variable=265",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Industrial de Santander - UIS",
+            "NATURALEZA": "Publica ",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": " Pediatría",
+            "LINK": "http://www.uis.edu.co/webUIS/es/academia/facultades/salud/escuelas/medicina/programasAcademicos/especializacionPediatria/index.jsp?variable=269",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Anestesiología",
+            "LINK": "https://www.unab.edu.co/programas/anestesiolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Ginecología y Obstetricia",
+            "LINK": "https://www.unab.edu.co/programas/ginecolog%C3%ADa-y-obstetricia-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://www.unab.edu.co/programas/medicina-interna-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Oftalmología",
+            "LINK": "https://www.unab.edu.co/programas/oftalmolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Radiología e Imágenes Diagnosticas",
+            "LINK": "https://www.unab.edu.co/programas/radiolog%C3%ADa-e-im%C3%A1genes-diagn%C3%B3sticas-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Urología",
+            "LINK": "https://www.unab.edu.co/programas/urolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "https://www.unab.edu.co/programas/dermatolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Medicina Critica y Cuidado Intensivo del Adulto",
+            "LINK": "https://www.unab.edu.co/programas/medicina-cr%C3%ADtica-y-cuidado-intensivo-del-adulto-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Medicina Nuclear",
+            "LINK": "https://www.unab.edu.co/programas/medicina-nuclear-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Ortopedia y Traumatología",
+            "LINK": "https://www.unab.edu.co/programas/ortopedia-y-traumatolog%C3%ADa-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Autónoma de Bucaramanga-UNAB",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Bucaramanga",
+            "ESPECIALIDADES": "Radiología Intervencionista",
+            "LINK": "https://www.unab.edu.co/programas/radiolog%C3%ADa-intervencionista-especializaci%C3%B3n-m%C3%A9dica-y-quir%C3%BArgica-presencial",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Anestesiologia",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-anestesiologi%C2%ADa/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-cirugi%C2%ADa-general/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Dermatología",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-dermatologi%C2%ADa/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Epidemiología",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-epidemiologia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Medicina Interna-Geriatria",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-medicina-interna-geriatria/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Medicina de Urgencias",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-medicina-de-urgencias/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-medicina-interna/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-pediatri%C2%ADa/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-psiquiatri%C2%ADa/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Obstetricia y Ginecología",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-obstetricia-y-ginecologi%C2%ADa/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Sexología Clinica",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-sexologia-clinica/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Caldas",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Gastroenterología Clinico Quirúrgica",
+            "LINK": "http://www.ucaldas.edu.co/portal/especializacion-en-gastroenterologi%c2%ada-cli%c2%adnico-quirurgica/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Manizales- UM",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Manizales",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Manizales- UM",
+            "NATURALEZA": "Privada",
+            "CIUDAD": "Manizales",
+            "ESPECIALIDADES": "Medicina Critica y Cuidados Intensivos",
+            "LINK": "https://umanizales.edu.co/Programa/especializacion-en-medicina/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Cauca",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Popayán ",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Cauca",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Popayán ",
+            "ESPECIALIDADES": "Anatomía Patológica",
+            "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-anatomia-patologica",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Cauca",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Popayán ",
+            "ESPECIALIDADES": "Anestesiología",
+            "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-anestesiologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Cauca",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Popayán ",
+            "ESPECIALIDADES": "Cirugía General",
+            "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-cirugia-general",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Cauca",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Popayán ",
+            "ESPECIALIDADES": "Ginecología y Obstetricia",
+            "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Cauca",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Popayán ",
+            "ESPECIALIDADES": "Medicina Familiar",
+            "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-medicina-familiar",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Cauca",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Popayán ",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-medicina-interna",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Cauca",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Popayán ",
+            "ESPECIALIDADES": "Neurorehabilitación",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Cauca",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Popayán ",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://www.unicauca.edu.co/posgrados/programas/especializacion-en-pediatria",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Tecnologica de Pererira-UTP",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Pereira",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Tecnologica de Pererira-UTP",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Pereira",
+            "ESPECIALIDADES": "Medicina Critica y Cuidado Intensivo",
+            "LINK": "https://salud.utp.edu.co/especializaciones/medicina-critica-cuidado-intensivo/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Tecnologica de Pererira-UTP",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Pereira",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://salud.utp.edu.co/especializaciones/medicina-interna/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Tecnologica de Pererira-UTP",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Pereira",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://salud.utp.edu.co/especializaciones/pediatria/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Tecnologica de Pererira-UTP",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Pereira",
+            "ESPECIALIDADES": "Psiquiatría",
+            "LINK": "https://salud.utp.edu.co/especializaciones/psiquiatria/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Tecnologica de Pererira-UTP",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Pereira",
+            "ESPECIALIDADES": "Radiología e Imágenes Diágnostocas",
+            "LINK": "https://salud.utp.edu.co/especializaciones/radiologia/",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Tecnologica de Pererira-UTP",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Pereira",
+            "CONVOCATORIAS": "Semestrales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Surcolombiana -SURCO",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Neiva ",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Surcolombiana -SURCO",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Neiva ",
+            "ESPECIALIDADES": "Anestesiología y Reanimación",
+            "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/anestesiologia-y-reanimacion",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Surcolombiana -SURCO",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Neiva ",
+            "ESPECIALIDADES": "Cirugia General",
+            "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/cirugia-general",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Surcolombiana -SURCO",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Neiva ",
+            "ESPECIALIDADES": "Ciudado Critico",
+            "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/especializacion-enfermeria-cuidado-critico",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Surcolombiana -SURCO",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Neiva ",
+            "ESPECIALIDADES": "Epidemiología",
+            "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/especializacion-en-epidemiologia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Surcolombiana -SURCO",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Neiva ",
+            "ESPECIALIDADES": "Medicina Interna",
+            "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/medicina-interna",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Surcolombiana -SURCO",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Neiva ",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/pediatria",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad Surcolombiana -SURCO",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Neiva ",
+            "ESPECIALIDADES": "Ginecología y Obstetricia",
+            "LINK": "https://contenidos.usco.edu.co/salud/index.php/programas/posgrados/ginecologia-y-obstetricia",
+            "CONVOCATORIAS": "Anuales"
+        },
+        {
+            "UNIVERSIDAD": "Universidad de Boyacá- UNIBOYACA",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Tunja",
+            "ESPECIALIDADES": "Mediccina del Deporte y la Actividad Fisica",
+            "LINK": "https://www.uniboyaca.edu.co/es/ciencias-de-la-salud/especializacion-medico-clinica-medicina-del-deporte-y-la-actividad-fisica",
+            "CONVOCATORIAS": "Semestrales",
+            "TELEFONO": "7450000 Ext 1101-1102",
+            "IMAGEN": "Carrera 2da. Este # 64-169 Edificio 1 Piso 1"
+        },
+        {
+            "UNIVERSIDAD": "Universidad del Qunidio",
+            "NATURALEZA": "Pública",
+            "CIUDAD": "Armenia",
+            "ESPECIALIDADES": "Pediatría",
+            "LINK": "http://www.uniquindio.edu.co/publicaciones/estudia_especializacion_en_pediatria_pub",
+            "CONVOCATORIAS": "Semestrales",
+            "TELEFONO": "(036) 7359370; 7359300 Ext. 372",
+            "IMAGEN": "Carreara 15 Calle 12 Norte"
+        }
+    ]
