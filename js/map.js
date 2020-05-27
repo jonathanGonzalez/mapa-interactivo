@@ -14,7 +14,7 @@ function getData() {
   // let datos = XLSX.utils.sheet_to_json(excel.Sheets[nombreHoja[0]]);
   // console.log("datos desde excel", datos);
   
-  fetch("data/mapa2.json")
+  fetch("data/mapa3.json")
     .then(response => response.json())
     .then(data => {
       datajson = data;
@@ -108,7 +108,7 @@ function verUniversidad(id_universidad) {
   var elmnt = document.getElementById("awards");
   elmnt.scrollIntoView();
   datajson = [];
-  fetch("data/mapa2.json")
+  fetch("data/mapa3.json")
     .then(response => response.json())
     .then(data => {
       datajson = data;
