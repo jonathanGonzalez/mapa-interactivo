@@ -68,18 +68,20 @@ function initMap(universidades) {
                         ${universidad.CIUDAD}</br>
                     </p>   
                     <p class="card-text">
-                        <b class= h6 mt-1 >PBX: </b>
-                        ${universidad.TELEFONO}</br>
+                        <b class= h6 mt-1 >PBX:
+                         </b>
+                       
+                        </br>
                     </p>   
                     <p class="card-text">
                         <b class= h6 mt-1 >Direccion: </b>
-                        ${universidad.DIRECCION}</br>
+                        </br>
                     </p>   
                     <p class="card-text">
                         <b class= h6 mt-1 >
                         Email:
                          </b>
-                        ${universidad.EMAIL}</br>
+                        </br>
                     </p>   
                     <div className="container">
                         <button class="btn btn-danger btn-sm mt-2" onclick="verUniversidad(${i})">Ver Universidad
